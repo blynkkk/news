@@ -22,15 +22,15 @@ Content is written using [markdown](https://docs.github.com/en/get-started/writi
 Files have a pre-defined structure. You would need to follow it to render news correctly. Here is how it should be structured:
 
 ```
-### date and time (required)
+### date and time of the post (required)
 
 # Headline (required)
 
-Image (optional). Should always be the same size (640x240)
+Image (optional). PNG file: 640x240px
 
-Body: Short description (optional, but highly recommended)
+News Body: (optional, but highly recommended)
 
-Links(optional) - for the latest post it will render as a button, for older news it will be rendered as a link (if possible)
+Links(optional) - for the latest post it will render as a button, for older news it will be rendered as a link
 ```
 
 
