@@ -13,8 +13,8 @@ IMAGE
 
 Your repository should have two files:
 ```
-latest_timestamp.md
-old.md
+latest_timestamp.md // file that holds the latest news
+old.md              // file that holds all old news
 ```
 
 Content is written using [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format. 
