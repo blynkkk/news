@@ -1,10 +1,17 @@
 {
-  latest: [
-    'path to latest file'
-  ],
+  latest: 1, // count for latest nwes from list array
   list: [
-    'path to file 1',
-    'path to file 2',
-    'path to file 3',
+    {
+      title: 'First new',
+      path: '/list/first.md',
+      date: '9.03.2022', // DD:MM:YYYY - formar
+      
+    },
+    {
+      title: 'Second new',
+      path: '/list/first.md',
+      date: '10.03.2022', // DD:MM:YYYY - formar
+      
+    },
   ]
 }
