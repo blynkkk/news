@@ -2,15 +2,15 @@
   "latest": 1,
   "list": [
     {
-      "title": 'First new',
-      "path": '/list/first.md',
-      "date": '9.03.2022',
+      "title": "First new",
+      "path": "/list/first.md",
+      "date": "9.03.2022",
       
     },
     {
-      "title": 'Second new',
-      "path": '/list/first.md',
-      "date": '10.03.2022',
+      "title": "Second new",
+      "path": "/list/first.md",
+      "date": "10.03.2022",
       
     },
   ]
