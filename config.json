@@ -3,13 +3,13 @@
   "list": [
     {
       "title": "First new",
-      "path": "list/first.md",
+      "path": "/list/first.md",
       "date": "9.03.2022",
       "link_to_article": "bla bla"
     },
     {
       "title": "Second new",
-      "path": "list/first.md",
+      "path": "/list/first.md",
       "date": "10.03.2022",
       "link_to_article": "bla bla"
     }
