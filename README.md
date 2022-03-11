@@ -1,23 +1,19 @@
-# Posting news
-You can update your customers with any latest news. When new content is available, it will be automatically shown in a popup. Users can close the popup.
+You can update your customers with latest news. When new content is available, it will be automatically shown in a popup. Users can close the popup and return read the news later.
 
-IMAGE
+IMAGE of how popup looks like
 
-## Setup
+## Initial Setup
 1. Create a new **public** GitHub repository
-2. In Your.Console go to Settings -> Application Settings -> News repository -> add a link to your Github news repo
+2. In Your.Console go to Settings -> Application Settings -> News repository -> add a link to your Github news repository
 
-IMAGE
+IMAGE of settings menu
 
 ## Working with content
-
-
 Your repository should have this structure:
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/24506752/157888403-5e3e670f-d09c-44b3-b30f-0e4080a6d23d.png">
 
 
-
-## config.json
+### config.json
 This file stores a list of all news in JSON format. You need to follow the exact structure as described below:
 
 ```
@@ -30,7 +26,8 @@ This file stores a list of all news in JSON format. You need to follow the exact
   }
 ]
 ```
-## news folder
+
+### news folder
 IMAGE
 
 This folder contains individual news files in .md ([markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))format.
@@ -70,6 +67,7 @@ Example:
       "URL": "https://mywebsite.com/my_first_news.html"
     }
 ```
+4. Go back to Console and refresh page (F5)
 
 # Making next posts:
 1. Inside of the `news` folder create new file: `my_second_news.md`. File name can be any
