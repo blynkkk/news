@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "title": "New",
+      "path": "/list/second.md",
+      "date": "04.09.2022"
+    },
+    {
       "title": "New Widgets, bla bla bla, etc and this and that",
       "path": "/list/first.md",
       "date": "04.09.2022",
