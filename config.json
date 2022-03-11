@@ -2,18 +2,18 @@
   "latest": 1,
   "list": [
     {
-      "title": "First new",
+      "title": "New Widgets, bla bla bla, etc and this and that",
       "path": "/list/first.md",
-      "date": "03.09.2022",
+      "date": "04.09.2022",
       "link_to_article": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
     },
     {
-      "title": "Second new",
+      "title": "New Widgets, bla bla bla",
       "path": "/list/second.md",
-      "date": "03.10.2022"
+      "date": "04.10.2022"
     },
     {
-      "title": "Third new",
+      "title": "this and that",
       "path": "/list/first.md",
       "date": "07.11.2022",
       "link_to_article": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
