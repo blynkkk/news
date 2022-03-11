@@ -1,7 +1,5 @@
 # Posting news
-You can update your customers with any latest news. When new content is available, it will be automatically shown in a popup. Users can close the popup or it will auto-close in 8 seconds.
-
-IMAGE
+You can update your customers with any latest news. When new content is available, it will be automatically shown in a popup. Users can close the popup.
 
 ## Setup
 1. Create a new **public** GitHub repository
@@ -11,75 +9,71 @@ IMAGE
 
 ## Working with content
 
-Your repository should have two files:
+Your repository should have two things:
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/24506752/157887627-c6b75e48-2ac0-4491-80a9-88d19af38331.png">
+
+
+**config.json - config file**
+
+## IMPORTANT - YOU NEED TO CHECK JSON SYNTAX
+
+# File Structure
+
 ```
-latest_timestamp.md // file that holds the latest news
-old.md              // file that holds all old news
+"list": [ // list of news
+  {
+    "title": "New", // Headline (required) 
+    "path": "/list/second.md", // path to md file
+    "date": "04.09.2022", // date and time of the post (required) FORMAT: MM.DD.YYY
+    "link_to_article": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent" // Links(optional) - for the latest post it will render as a button, for older news it will be rendered as a link
+  }
+]
 ```
+**list folder - folder with articles**
 
-Content is written using [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format. 
-
-Files have a pre-defined structure. You would need to follow it to render news correctly. Here is how it should be structured:
-
-```
-### date and time of the post (required)
-
-# Headline (required)
-
-Image (optional). PNG file: 640x240px
-
-News Body: (optional, but highly recommended)
-
-Links(optional) - for the latest post it will render as a button, for older news it will be rendered as a link
-```
+Content is written using [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) format.
 
 
 ### Making first post:
 
-1. Create new file: `latest_timestamp.md`, where `timestamp` is a current unix time. To get the timestamp go to: LINK. As a result, file name should look similar to this: `latest_1646642432`
+1. Create new file: `second.md`,
 2. Edit the contents of the file:
 
 Example: 
 
 ```
-### April 1, 2022
-# Latest news! We put a man on the moon!
-
 ![image](https://user-images.githubusercontent.com/11541426/157123572-8339b3e1-c24d-45c1-94c1-7de66fbf129f.png)
 
 If you believed they put a man on the moon
 Man on the moon
 If you believed there's nothing up his sleeve
 Then nothing is cool
-
-[Link](https://blynk.io)
 ```
 
-### Making next posts:
-When you have an update for your users, you need to update the contents of the `latest` file and move previous content into `old` file. To do that:
-1. Copy contents of the `latest` to the top of your `old file` contents
-It should look similat to the example below: 
+3. Add new item at top
 
-old.md:
+Example: 
 ```
-### April 1, 2022
-# Latest news! We put a man on the moon!
-
-![image](https://user-images.githubusercontent.com/11541426/157123572-8339b3e1-c24d-45c1-94c1-7de66fbf129f.png)
-
-If you believed they put a man on the moon
-Man on the moon
-If you believed there's nothing up his sleeve
-Then nothing is cool
-
-[Link](https://blynk.io)
-
-
-### January 15, 2022
-# We just launched!
-Welcome to our new IoT portal
+{
+  "list": [
+    {
+      "title": "New",
+      "path": "/list/second.md",
+      "date": "04.09.2022",
+      "link_to_article": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
+    },
+    
+    {
+      "title": "old",
+      "path": "/list/first.md",
+      "date": "07.11.2022",
+      "link_to_article": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
+    }
+  ]
+}
 ```
 
-2. Now update the content of the `latest` file with fresh news
-3. Rename the `latest` file by updating to the latest timestamp. 
-4. Save changes.
+4. Save file.
+
+## IMPORTANT - .md file contains content for post body only. Date, title, link for button - in config file 
+
