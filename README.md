@@ -2,13 +2,13 @@ You can update your customers with latest news. When new content is available, i
 
 IMAGE of how popup looks like
 
-## Initial Setup
+# Initial Setup
 1. Create a new **public** GitHub repository
 2. In Your.Console go to Settings -> Application Settings -> News repository -> add a link to your Github news repository
 
 IMAGE of settings menu
 
-## Working with content
+# Working with content
 Your repository should have this structure:
 <img width="884" alt="image" src="https://user-images.githubusercontent.com/24506752/157888403-5e3e670f-d09c-44b3-b30f-0e4080a6d23d.png">
 
@@ -95,4 +95,4 @@ Example:
 }
 ```
 
-🚨🚨🚨 IMPORTANT - news files should only contain content. Date, title, and link for button  in config.json 
+### 🚨🚨🚨 IMPORTANT - news files should only contain content. Date, title, and link for button  in config.json 
