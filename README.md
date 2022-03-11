@@ -9,8 +9,9 @@ IMAGE
 
 ## Working with content
 
+
 Your repository should have two things:
-<img width="897" alt="image" src="https://user-images.githubusercontent.com/24506752/157887627-c6b75e48-2ac0-4491-80a9-88d19af38331.png">
+<img width="884" alt="image" src="https://user-images.githubusercontent.com/24506752/157888403-5e3e670f-d09c-44b3-b30f-0e4080a6d23d.png">
 
 
 **config.json - config file**
