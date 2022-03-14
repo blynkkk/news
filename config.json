@@ -8,7 +8,7 @@
       "path": "/list/first.md",
       "date": "04.09.2022",
       "link": "Read More",
-      "LINK": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
+      "URL": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
     },
     {
       "path": "/list/second.md",
@@ -19,7 +19,7 @@
       "path": "/list/first.md",
       "date": "04.09.2022",
       "link": "Read",
-      "LINK": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
+      "URL": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
     }
   ]
 }
