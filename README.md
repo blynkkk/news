@@ -95,4 +95,4 @@ Example:
 }
 ```
 
-### 🚨🚨🚨 IMPORTANT - news files should only contain content. Date, title, and link for button  in config.json 
+### 🚨🚨🚨 IMPORTANT - news files should only contain content. Date, and URL for button should be placed in config.json 
