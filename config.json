@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "title": "New Widgets, bla bla bla, etc and this and that",
+      "path": "/list/first.md",
+      "date": "04.09.2022",
+      "link_to_article": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
+    },
+    {
       "title": "New",
       "path": "/list/second.md",
       "date": "04.09.2022"
