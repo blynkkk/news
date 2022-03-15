@@ -1,33 +1,22 @@
 {
   "list": [
     {
-      "path": "/list/demo.md",
-      "date": "04.14.2022"
+      "path": "/list/tabs.md",
+      "date": "03.15.2022",
+      "link": "Configure tabs",
+      "URL": "https://blynk.cloud/dashboard/products"
     },
     {
-      "path": "/list/demo.md",
-      "date": "03.14.2022"
-    },
-    {
-      "path": "/list/second.md",
-      "date": "04.10.2022"
-    },
-    {
-      "path": "/list/first.md",
-      "date": "04.09.2022",
+      "path": "/list/provisioning_troubleshooting.md",
+      "date": "03.10.2022",
       "link": "Read More",
       "URL": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
     },
     {
-      "path": "/list/second.md",
-      "date": "04.09.2022"
-    },
-    {
-
-      "path": "/list/first.md",
-      "date": "04.09.2022",
-      "link": "Read",
-      "URL": "https://blynk.io/blog/how-to-troubleshoot-wi-fi-provisioning-in-blynk-edgent"
+      "path": "/list/segmented.md",
+      "date": "02.28.2022",
+      "link": "Add widget",
+      "URL": "https://blynk.cloud/dashboard/products"
     }
   ]
 }
