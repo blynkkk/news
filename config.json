@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/test.md",
+      "date": "03.16.2022",
+      "link": "Configure tabs",
+      "URL": "/dashboard/products"
+    },
+    {
       "path": "/list/tabs.md",
       "date": "03.15.2022",
       "link": "Configure tabs",
