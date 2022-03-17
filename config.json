@@ -1,16 +1,10 @@
 {
   "list": [
     {
-      "path": "/list/test.md",
-      "date": "03.16.2022",
-      "link": "Configure tabs",
-      "URL": "/dashboard/products"
-    },
-    {
       "path": "/list/tabs.md",
       "date": "03.15.2022",
-      "link": "Configure tabs",
-      "URL": "/dashboard/products"
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/dashboard/multiple-dashboard-tabs"
     },
     {
       "path": "/list/provisioning_troubleshooting.md",
@@ -20,7 +14,9 @@
     },
     {
       "path": "/list/segmented.md",
-      "date": "02.28.2022"
+      "date": "02.28.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/dashboard/segmented-switch"
     }
   ]
 }
