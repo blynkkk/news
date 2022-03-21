@@ -1,12 +1,6 @@
 {
   "list": [
     {
-      "path": "/list/segmented.md",
-      "date": "03.21.2022",
-      "link": "Test Button",
-      "URL": "https://docs.blynk.io/en/blynk.console/templates/dashboard/multiple-dashboard-tabs"
-    },
-    {
       "path": "/list/test.md",
       "date": "03.18.2022",
       "link": "Read More",
