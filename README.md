@@ -1,12 +1,12 @@
 You can update your customers with latest news. When new content is available, it will be automatically shown in a popup. Users can close the popup and return read the news later.
 
->IMAGE of how news popup looks like
+![1_platform-news-popup](https://user-images.githubusercontent.com/24506752/160088511-d8d215a1-bcc3-4663-9152-9400561c8ec4.png)
 
 # Initial Setup
 1. Create a new **public** GitHub repository
 2. In Your.Console go to Settings -> Application Settings -> News repository -> add a link to your Github news repository
 
-IMAGE of settings menu where link is placed
+![2_news-link](https://user-images.githubusercontent.com/24506752/160089859-b597f74d-15ec-4e08-a456-949cf57d2e9c.png)
 
 # Working with content
 Your repository should have this structure:
@@ -28,7 +28,7 @@ This file stores a list of all news in JSON format. You need to follow the exact
 ```
 
 ### news folder
-IMAGE of the news folder with news files from github
+![2_news-list](https://user-images.githubusercontent.com/24506752/160089878-68f9b98e-d15c-4732-85a2-a0478782ef1f.png)
 
 This folder contains individual news files in .md ([markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))format.
 
