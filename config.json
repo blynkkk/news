@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/heatmap.md",
+      "date": "04.20.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/widgets-console/heatmap-chart"
+    },
+    {
       "path": "/list/batch.md",
       "date": "03.30.2022"
     },
