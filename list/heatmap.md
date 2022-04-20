@@ -1,4 +1,6 @@
 # New widget: Heatmap Chart
+![image](https://user-images.githubusercontent.com/97158411/164276963-2717ef98-8096-4b5e-b747-f062c9045b48.png)
 
-![image](https://user-images.githubusercontent.com/97158411/158426249-ccae011d-42a3-4b8a-90cf-479d9e954c09.png)
-Setting up Wi-Fi provisioning 📶 in Blynk.Edgent and running into issues? This step-by-step troubleshooting guide will help identify your mistake and quickly fix it.
+The Chart is used to visualize live and historical data differentiating by color intensity. 
+
+An example of use could be a chart of temperature change depicted in color, but it can also be used to visualize on/off or mode states.
