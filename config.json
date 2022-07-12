@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/libraryupdate.md",
+      "date": "07.12.2022",
+      "link": "Read More",
+      "URL": "https://github.com/blynkkk/blynk-library/releases/tag/v1.1.0"
+    },    
+    {
       "path": "/list/darktheme.md",
       "date": "07.05.2022"
     },
