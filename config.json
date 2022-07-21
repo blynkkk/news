@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/migrationguide.md",
+      "date": "07.21.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk-1.0-and-2.0-comparison/migrate-from-1.0-to-2.0"
+    },    
+    {
       "path": "/list/libraryupdate.md",
       "date": "07.12.2022",
       "link": "Read More",
