@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/cellclaiming.md",
+      "date": "08.09.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=cellclaiming"
+    },
+    {
       "path": "/list/wificlaiming.md",
       "date": "08.03.2022",
       "link": "Read More",
