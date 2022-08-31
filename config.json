@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/webdash.md",
+      "date": "08.31.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/dashboard?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=webdash"
+    },
+    {
       "path": "/list/cellclaiming.md",
       "date": "08.09.2022",
       "link": "Read More",
