@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/bridge.md",
+      "date": "09.20.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/concepts/automations/forward-device-data?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=bridge"
+    },
+    {
       "path": "/list/webdash.md",
       "date": "08.31.2022",
       "link": "Read More",
