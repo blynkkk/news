@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/criticalnotif.md",
+      "date": "12.21.2022",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/events/events-notification-settings/custom-sounds-and-critical-notifications?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=criticalnotificatios"
+    },    
+    {
       "path": "/list/gaugetile.md",
       "date": "11.08.2022",
       "link": "Read More",
