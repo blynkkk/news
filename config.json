@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/organizations.md",
+      "date": "01.04.2023",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/concepts/organizations?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=organizations"
+    },  
+    {
       "path": "/list/criticalnotif.md",
       "date": "12.21.2022",
       "link": "Read More",
