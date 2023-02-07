@@ -1,11 +1,5 @@
 {
-  "list": [
-    {
-      "path": "/list/usermanagement.md",
-      "date": "02.07.2023",
-      "link": "Read More",
-      "URL": "https://docs.blynk.io/en/concepts/users?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=usermanagement"
-    }, 
+  "list": [ 
     {
       "path": "/list/organizations.md",
       "date": "01.04.2023",
