@@ -1,12 +1,6 @@
 {
   "list": [ 
     {
-      "path": "/list/newlibrary.md",
-      "date": "02.21.2023",
-      "link": "Read More",
-      "URL": "https://github.com/blynkkk/blynk-library/releases/tag/v1.2.0?utm_source=console&utm_medium=news&utm_campaign=library&utm_content=newlibrary"
-    },
-    {
       "path": "/list/usermanagement.md",
       "date": "02.07.2023",
       "link": "Read More",
