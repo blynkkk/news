@@ -1,5 +1,5 @@
 # 🚀 Win a free year of PRO!
-![platform-news 2](https://user-images.githubusercontent.com/120122081/221190700-1025401c-478f-4c0d-bf94-ba9034a3f691.png)
+![platform-news 3](https://user-images.githubusercontent.com/120122081/221194504-9e9b9cd8-6642-4663-888c-e293f6706b6b.png)
 We are starting a contest that can be a great opportunity to try Blynk at its fullest or even scale your hobby into a small business! 
 
 Find out what you need to participate 👇
