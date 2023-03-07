@@ -1,6 +1,12 @@
 {
   "list": [   
     {
+      "path": "/list/videowidget.md",
+      "date": "03.07.2023",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/widgets-console/video?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=videowidget"
+    },
+    {
       "path": "/list/contest.md",
       "date": "02.24.2023",
       "link": "Read More",
