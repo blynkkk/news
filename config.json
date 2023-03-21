@@ -1,6 +1,12 @@
 {
   "list": [   
     {
+      "path": "/list/alarmsound.md",
+      "date": "03.21.2023",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.console/widgets-console/alarm-and-sound-widget?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=alarmsound"
+    },
+    {
       "path": "/list/videowidget.md",
       "date": "03.07.2023",
       "link": "Read More",
