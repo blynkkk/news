@@ -1,5 +1,11 @@
 {
-  "list": [   
+  "list": [  
+    {
+      "path": "/list/animation.md",
+      "date": "05.04.2023",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.apps/widgets-displays/image-animation?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=animation"
+    },
     {
       "path": "/list/alarmsound.md",
       "date": "03.21.2023",
