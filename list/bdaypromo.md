@@ -1,5 +1,5 @@
 # 🎉 Happy Birthday to Blynk!
-![platform-news (5)](https://github.com/blynkkk/news/assets/120122081/de20e20e-4a5f-47cf-9191-ea53f9a73f68)
+![newsletter 4](https://github.com/blynkkk/news/assets/120122081/7a25a95c-0c54-49f1-819b-4661518607b8)
 Get 30% off Blynk PRO - upgrade in Console before May 31, 2023! Valid only for the new PRO users. 
 
 Promo code: BLYNKHB30
