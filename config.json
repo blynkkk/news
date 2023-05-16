@@ -1,6 +1,12 @@
 {
   "list": [  
     {
+      "path": "/list/bdaypromo.md",
+      "date": "05.16.2023",
+      "link": "Upgrade Now",
+      "URL": "https://blynk.cloud/dashboard/settings/billing"
+    },
+    {
       "path": "/list/animation.md",
       "date": "05.04.2023",
       "link": "Read More",
