@@ -1,6 +1,12 @@
 {
   "list": [ 
     {
+      "path": "/list/spacer.md",
+      "date": "07.15.2023",
+      "link": "Read More",
+      "URL": "https://docs.blynk.io/en/blynk.apps/widgets-interface/dynamic-spacer?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=spacer"
+    },
+    {
       "path": "/list/blueprints.md",
       "date": "06.15.2023",
       "link": "Go to Blueprints 🚀",
