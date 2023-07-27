@@ -1,6 +1,12 @@
 {
   "list": [ 
     {
+      "path": "/list/ncp.md",
+      "date": "07.27.2023",
+      "link": "Read more",
+      "URL": "https://blynk.io/blog/network-co-processor-for-iot-retrofitting?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=ncp"
+    },
+    {
       "path": "/list/soilmoisture.md",
       "date": "07.22.2023",
       "link": "Try Blueprint",
