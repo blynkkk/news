@@ -1,6 +1,12 @@
 {
   "list": [ 
     {
+      "path": "/list/formattedtext.md",
+      "date": "08.05.2023",
+      "link": "Read more",
+      "URL": "https://docs.blynk.io/en/blynk.apps/widgets-interface/formatted-text?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=formattedtext"
+    },
+    {
       "path": "/list/ncp.md",
       "date": "07.27.2023",
       "link": "Read more",
