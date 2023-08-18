@@ -1,6 +1,12 @@
 {
   "list": [ 
     {
+      "path": "/list/prorequired.md",
+      "date": "08.18.2023",
+      "link": "Upgrade to PRO",
+      "URL": "https://blynk.cloud/dashboard/settings/billing?utm_source=console&utm_medium=news&utm_campaign=info&utm_content=proreqired"
+    },
+    {
       "path": "/list/formattedtext.md",
       "date": "08.05.2023",
       "link": "Read more",
