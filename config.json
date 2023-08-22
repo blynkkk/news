@@ -1,12 +1,6 @@
 {
   "list": [ 
     {
-      "path": "/list/multidev.md",
-      "date": "08.22.2023",
-      "link": "Read more",
-      "URL": "https://docs.blynk.io/en/concepts/developer-mode?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=multidev"
-    },
-    {
       "path": "/list/prorequired.md",
       "date": "08.18.2023",
       "link": "Upgrade to PRO",
