@@ -1,5 +1,6 @@
-# 🎉 Happy International IT Day!
-![Untitled design (3)](https://user-images.githubusercontent.com/120122081/236258652-a7285a2c-3094-4877-9562-5f4f6bcfd9d0.jpg)
-Upgrade before Sep 25 to get 30% off Blynk PRO for your first year! 
+# 🎉 Happy IT Professionals Day!
+![platform-news](https://github.com/blynkkk/news/assets/120122081/5b945d63-80fd-4d36-977d-baf7d2392fe8)
 
-**Promo code: IT30**.
+Let's celebrate together! Upgrade to PRO before Sep 30 to get 30% off your first year! 
+
+**Promo code: IT30**
