@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/holidaypro.md",
+      "date": "12.14.2023",
+      "link": "Get PRO now!",
+      "URL": "https://blynk.cloud/dashboard/settings/billing?utm_source=console&utm_medium=news&utm_campaign=promo&utm_content=holidaypromo"
+    },
+    {
       "path": "/list/navigation.md",
       "date": "11.23.2023",
       "link": "Details here",
