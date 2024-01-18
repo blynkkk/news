@@ -1,5 +1,11 @@
 {
   "list": [
+   {
+      "path": "/list/zephyr.md",
+      "date": "01.18.2024",
+      "link": "Details",
+      "URL": "https://blynk.io/blog/blynk-ncp-integrated-with-zephyr-rtos?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=zephyr"
+    },
     {
       "path": "/list/widgetlim.md",
       "date": "01.09.2024"
