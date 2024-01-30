@@ -2,4 +2,4 @@
 ![platform-news](https://github.com/blynkkk/news/assets/120122081/d74f591c-d704-49ac-8370-d7b4eb27b97a)
 Keep vital device info at a glance and give your app a sleek and professional look. 
 
-Show the soil moisture or device battery level, control the Header image from your device and more
+You can show the soil moisture or device battery level, control the Header image from your device and more
