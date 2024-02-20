@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/statuses.md",
+      "date": "02.20.2024",
+      "link": "Read more",
+      "URL": "https://docs.blynk.io/en/getting-started/connection-lifecycle-management?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=connection"
+    },
+    {
       "path": "/list/rgb.md",
       "date": "02.15.2024",
       "link": "Read more",
