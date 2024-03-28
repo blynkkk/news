@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/mqtt.md",
+      "date": "03.28.2024",
+      "link": "Read more",
+      "URL": "https://blynk.io/blog/blynk-expands-protocol-range-introducing-mqtt-support?utm_source=console&utm_medium=news&utm_campaign=blog&utm_content=mqtt"
+    },
+    {
       "path": "/list/platformapi.md",
       "date": "03.14.2024",
       "link": "Read more",
