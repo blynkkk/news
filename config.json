@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/proapril.md",
+      "date": "04.03.2024",
+      "link": "Read more",
+      "URL": "https://blynk.io/blog/iot-software-for-industrial-hvac-solutions-pools-and-indoor-farming?utm_source=console&utm_medium=news&utm_campaign=blog&utm_content=proapril"
+    },
+    {
       "path": "/list/mqtt.md",
       "date": "03.28.2024",
       "link": "Read more",
