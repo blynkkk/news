@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/nodered.md",
+      "date": "05.23.2024",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/hardware-guides/node-red?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=nodered"
+    },
+    {
       "path": "/list/sheets.md",
       "date": "04.23.2024",
       "link": "Details",
