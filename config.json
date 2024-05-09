@@ -1,8 +1,14 @@
 {
   "list": [
     {
+      "path": "/list/tiles.md",
+      "date": "05.09.2024",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/getting-started/template-quick-setup/set-up-mobile-app-dashboard?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=tiles"
+    },
+    {
       "path": "/list/nodered.md",
-      "date": "05.23.2024",
+      "date": "05.02.2024",
       "link": "Details",
       "URL": "https://docs.blynk.io/en/hardware-guides/node-red?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=nodered"
     },
