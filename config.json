@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/map.md",
+      "date": "05.30.2024",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/blynk.console/widgets-console/map?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=map"
+    },
+    {
       "path": "/list/tiles.md",
       "date": "05.09.2024",
       "link": "Details",
