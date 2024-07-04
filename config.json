@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/vitals.md",
+      "date": "07.04.2024",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/blynk.console/devices/device-profile/developer-tools/general?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=vitals"
+    },
+    {
       "path": "/list/timeline.md",
       "date": "06.27.2024",
       "link": "Details",
