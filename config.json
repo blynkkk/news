@@ -1,8 +1,14 @@
 {
   "list": [
     {
+      "path": "/list/blues.md",
+      "date": "10.10.2024",
+      "link": "Details",
+      "URL": "https://blynk.io/blog/blynk-and-blues-no-code-apps-and-low-power-cellular-connectivity-for-enterprise-iot?utm_source=console&utm_medium=news&utm_campaign=blog&utm_content=blues"
+    },
+    {
       "path": "/list/ttc.md",
-      "date": "10.19.2024",
+      "date": "09.19.2024",
       "link": "Details",
       "URL": "https://blynk.io/blog/how-to-use-blynk-to-bolster-large-scale-lorawan-r-iot-deployments?utm_source=console&utm_medium=news&utm_campaign=partnership&utm_content=tts"
     },
