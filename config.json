@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/userguides.md",
+      "date": "10.31.2024",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/user-guides?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=userguides"
+    },
+    {
       "path": "/list/blues.md",
       "date": "10.10.2024",
       "link": "Details",
