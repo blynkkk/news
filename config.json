@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/constructionblog.md",
+      "date": "11.07.2024",
+      "link": "Read blog",
+      "URL": "https://blynk.io/blog/how-construction-companies-are-using-iot-for-safety-and-efficiency?utm_source=console&utm_medium=news&utm_campaign=blog&utm_content=constructioniot"
+    },
+    {
       "path": "/list/userguides.md",
       "date": "10.31.2024",
       "link": "Details",
