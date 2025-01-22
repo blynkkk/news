@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/assets.md",
+      "date": "1.22.2025",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/assets?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=assets"
+    },
+    {
       "path": "/list/blueswebinar.md",
       "date": "11.27.2024",
       "link": "Register now",
