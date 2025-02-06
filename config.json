@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/dashboards.md",
+      "date": "2.06.2025",
+      "link": "Start using Dashboards",
+      "URL": "https://docs.blynk.io/en/blynk.console/dashboards?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=dashboards"
+    },
+    {
       "path": "/list/assets.md",
       "date": "1.22.2025",
       "link": "Learn more",
