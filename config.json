@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/signallevel.md",
+      "date": "2.20.2025",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/blynk.apps/device-header-constructor/header-mini-widgets/signal-level?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=signalevel"
+    },
+    {
       "path": "/list/dashboards.md",
       "date": "2.06.2025",
       "link": "Start using Dashboards",
