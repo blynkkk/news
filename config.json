@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/lifecycleupd.md",
+      "date": "2.26.2025",
+      "link": "Learn more",
+      "URL": "https://docs.blynk.io/en/blynk.console/templates/connection-lifecycle?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=lifecycle#log-when-device-reports-any-data"
+    },
+    {
       "path": "/list/signallevel.md",
       "date": "2.20.2025",
       "link": "Details",
