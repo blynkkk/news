@@ -1,6 +1,6 @@
 [
   {
-    "icon": "heart",
+    "icon": "cube",
     "title": "Devices 💚 Blynk",
     "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
     "actions": [
@@ -15,7 +15,7 @@
     ]
   },
   {
-    "icon": "layers",
+    "icon": "template",
     "title": "Device Templates",
     "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
     "actions": [
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "icon": "plug",
+    "icon": "webhook",
     "title": "Webhooks",
     "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
     "actions": [
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "icon": "connection",
+    "icon": "enter2",
     "title": "Integrations",
     "description": "Connect Blynk to external platforms like AWS, The Things Stack, and others to onboard devices and enable two-way data exchange.",
     "actions": [
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "icon": "chart-bars",
+    "icon": "datastreams",
     "title": "Datastreams",
     "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
     "actions": [
@@ -59,7 +59,7 @@
     ]
   },
   {
-    "icon": "magic-wand",
+    "icon": "sun2",
     "title": "Automations",
     "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
     "actions": [
