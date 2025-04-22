@@ -7,7 +7,7 @@
     "link": "/videos/video3.mpeg4"
   },
   {
-    "image": "/images/color_widget.jpg",
+    "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/data-visualization-snapshot.png",
     "title": "Customize your app's look and feel",
     "description": "Skip the time-consuming app review process and customize your app with no coding required.",
     "btnText": "Learn More",
