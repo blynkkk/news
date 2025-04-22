@@ -1,16 +1,16 @@
 [
   {
     "icon": "cube",
-    "title": "Devices 💚 Blynk",
-    "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
+    "title": "Onboard your devices in Blynk",
+    "description": "Connect via Blynk.Edgent, Blynk.NCP, MQTT, HTTPs API, LoRaWAN, the Blynk Library, or import from third-party cloud services.",
     "actions": [
       {
         "btnText": "Connect A Device",
-        "link": "dashboard/devices"
+        "link": "/dashboard/global/devices/"
       },
       {
         "btnText": "View Compatible Devices",
-        "link": "dashboard/devices"
+        "link": "https://docs.blynk.io/en/getting-started/supported-boards"
       }
     ]
   },
@@ -21,7 +21,7 @@
     "actions": [
       {
         "btnText": "Create A Template",
-        "link": "dashboard/templates"
+        "link": "/dashboard/templates"
       }
     ]
   },
@@ -32,7 +32,7 @@
     "actions": [
       {
         "btnText": "Create Webhook",
-        "link": "dashboard/webhooks"
+        "link": "/dashboard/webhooks"
       }
     ]
   },
@@ -43,7 +43,7 @@
     "actions": [
       {
         "btnText": "Set Up An Integration",
-        "link": "dashboard/integrations"
+        "link": "/dashboard/integrations"
       }
     ]
   },
@@ -53,8 +53,8 @@
     "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
     "actions": [
       {
-        "btnText": "Add Datastream",
-        "link": "dashboard/datastreams"
+        "btnText": "Learn More",
+        "link": "https://docs.blynk.io/en/getting-started/how-to-display-any-sensor-data-in-blynk-app"
       }
     ]
   },
@@ -64,8 +64,8 @@
     "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
     "actions": [
       {
-        "btnText": "Upgrade",
-        "link": "https://blynk.io/plans"
+        "btnText": "Add Automation",
+        "link": "/dashboard/automations"
       }
     ]
   }
