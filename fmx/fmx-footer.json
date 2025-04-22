@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "file-empty",
+    "title": "Documentation",
+    "description": "Your go-to guides, how-to’s and best practices for everything Blynk.",
+    "link": "https://docs.blynk.io/en"
+  },
+  {
+    "icon": "bullhorn",
+    "title": "Community",
+    "description": "A space where developers, makers, and IoT enthusiasts come together.",
+    "link": "https://community.blynk.cc"
+  },
+  {
+    "icon": "briefcase",
+    "title": "Blynk for Business",
+    "description": "Bring your IoT solution to market at low-code speed.",
+    "link": "https://blynk.io/console-form?refpage=Blynk%20for%20Business"
+  }
+]

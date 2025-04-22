@@ -1,0 +1,72 @@
+[
+  {
+    "icon": "heart",
+    "title": "Devices 💚 Blynk",
+    "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
+    "actions": [
+      {
+        "btnText": "Connect A Device",
+        "link": "dashboard/devices"
+      },
+      {
+        "btnText": "View Compatible Devices",
+        "link": "dashboard/devices"
+      }
+    ]
+  },
+  {
+    "icon": "layers",
+    "title": "Device Templates",
+    "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
+    "actions": [
+      {
+        "btnText": "Create A Template",
+        "link": "dashboard/templates"
+      }
+    ]
+  },
+  {
+    "icon": "plug",
+    "title": "Webhooks",
+    "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
+    "actions": [
+      {
+        "btnText": "Create Webhook",
+        "link": "dashboard/webhooks"
+      }
+    ]
+  },
+  {
+    "icon": "connection",
+    "title": "Integrations",
+    "description": "Connect Blynk to external platforms like AWS, The Things Stack, and others to onboard devices and enable two-way data exchange.",
+    "actions": [
+      {
+        "btnText": "Set Up An Integration",
+        "link": "dashboard/integrations"
+      }
+    ]
+  },
+  {
+    "icon": "chart-bars",
+    "title": "Datastreams",
+    "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
+    "actions": [
+      {
+        "btnText": "Add Datastream",
+        "link": "dashboard/datastreams"
+      }
+    ]
+  },
+  {
+    "icon": "magic-wand",
+    "title": "Automations",
+    "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
+    "actions": [
+      {
+        "btnText": "Upgrade",
+        "link": "https://blynk.io/plans"
+      }
+    ]
+  }
+]
