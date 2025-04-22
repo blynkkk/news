@@ -4,7 +4,7 @@
     "title": "How to connect a device to Blynk",
     "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
     "btnText": "Watch",
-    "link": "/videos/video3.mpeg4"
+    "link": "/videos/video2.mpeg4"
   },
   {
     "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/data-visualization-snapshot.png",
@@ -39,7 +39,7 @@
     "title": "Connect and manage data with Datastreams",
     "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
     "btnText": "Watch",
-    "link": "/videos/video4.mpeg4"
+    "link": "/videos/video3.mpeg4"
   },
   {
     "image": "/images/automations.jpg",
