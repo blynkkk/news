@@ -1,0 +1,65 @@
+[
+  {
+    "image": "/images/scan_qr_on_parcel.jpg",
+    "title": "How to connect a device to Blynk",
+    "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
+    "btnText": "Watch",
+    "link": "/videos/video3.mpeg4"
+  },
+  {
+    "image": "/images/color_widget.jpg",
+    "title": "Customize your app's look and feel",
+    "description": "Skip the time-consuming app review process and customize your app with no coding required.",
+    "btnText": "Learn More",
+    "link": "https://docs.blynk.io/en/blynk.apps/overview"
+  },
+  {
+    "image": "/images/blueprint_graph.jpg",
+    "title": "Create your app in minutes with Blueprints",
+    "description": "Use a pre-built template with all the essentials to get your device up and running instantly.",
+    "btnText": "View Blueprints",
+    "link": "/dashboard/blueprints/Library"
+  },
+  {
+    "image": "/images/invite_team.jpg",
+    "title": "Bring your team on board",
+    "description": "Easily add members to your project and start working together in real-time.",
+    "btnText": "Invite",
+    "link": "/dashboard/settings/users"
+  },
+  {
+    "image": "/images/ota.jpg",
+    "title": "Over-The-Air updates with Blynk.Air",
+    "description": "Track update progress, manage rollouts, and ensure your fleet stays up to date—all without manual intervention.",
+    "btnText": "Try Now",
+    "link": "/dashboard/shipments/all"
+  },
+  {
+    "image": "/images/datastreams.jpg",
+    "title": "Connect and manage data with Datastreams",
+    "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
+    "btnText": "Watch",
+    "link": "/videos/video4.mpeg4"
+  },
+  {
+    "image": "/images/automations.jpg",
+    "title": "No-code automations",
+    "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
+    "btnText": "Upgrade",
+    "link": "/dashboard/automations"
+  },
+  {
+    "image": "/images/publish_app.jpg",
+    "title": "Launch your white-label app and go live with your solution",
+    "description": "Our team will guide you through every step of the publishing process for a smooth launch on the App Store and Google Play.",
+    "btnText": "Get Started with a Demo",
+    "link": "https://blynk.io/console-form?refpage=Publish%20an%20App"
+  },
+  {
+    "image": "/images/notifications.jpg",
+    "title": "Events, alerts and notifications",
+    "description": "Track important events, receive real-time alerts, and configure notifications for your devices.",
+    "btnText": "Learn More",
+    "link": "https://docs.blynk.io/en/blynk.console/templates/events/events-notification-settings"
+  }
+]
