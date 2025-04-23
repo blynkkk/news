@@ -25,7 +25,7 @@
     "title": "Bring your team on board",
     "description": "Easily add members to your project and start working together in real-time.",
     "btnText": "Invite",
-    "link": "/dashboard/settings/users"
+    "link": "/dashboard/settings/billing"
   },
   {
     "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/data-visualization-snapshot.png",
