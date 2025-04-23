@@ -58,7 +58,7 @@
     "actions": [
       {
         "btnText": "Learn More",
-        "link": "https://docs.blynk.io/en/getting-started/how-to-display-any-sensor-data-in-blynk-app"
+        "link": "https://docs.blynk.io/en/blynk.console/templates/datastreams"
       }
     ]
   },
