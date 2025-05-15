@@ -82,6 +82,36 @@
       ]
     },
     {
+      "icon": "key",
+      "title": "Auth Token",
+      "description": "Devices need an Auth Token to connect to Blynk. You can copy it manually from Developer Tools section on device page, or skip this step entirely with Blynk.Edgent or Blynk.NCP.",
+      "actions": [
+        {
+          "btnText": "How to access Auth Token",
+          "link": "https://docs.blynk.io/en/getting-started/activating-devices/manual-device-activation#getting-auth-token"
+        },
+        {
+          "btnText": "Skip with Blynk.Edgent",
+          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        }
+      ]
+    },
+    {
+      "icon": "activity",
+      "title": "Message Limit",
+      "description": "If you exceed the monthly message limit on the Free plan, your devices will stop communicating. Optimise usage or upgrade to keep everything running smoothly.",
+      "actions": [
+        {
+          "btnText": "Optimise Message Usage",
+          "link": "https://docs.blynk.io/en/message-usage"
+        },
+        {
+          "btnText": "Upgrade to Remove Limit",
+          "link": "/dashboard/settings/billing"
+        }
+      ]
+    },
+    {
       "icon": "sun2",
       "title": "Automations",
       "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
@@ -100,10 +130,6 @@
         {
           "btnText": "Set Up An Integration",
           "link": "/dashboard/integrations"
-        },
-        {
-          "btnText": "Upgrade to PRO plan",
-          "link": "/dashboard/settings/billing"
         }
       ]
     },
@@ -115,6 +141,36 @@
         {
           "btnText": "Create Webhook",
           "link": "/dashboard/webhooks"
+        }
+      ]
+    },
+    {
+      "icon": "users",
+      "title": "Structure Projects with Organizations",
+      "description": "Use Organizations to manage access and device visibility for clients, partners, or internal teams. Keep projects separate, control permissions, and scale with ease.",
+      "actions": [
+        {
+          "btnText": "How Organizations Work",
+          "link": "https://docs.blynk.io/en/concepts/organizations"
+        },
+        {
+          "btnText": "Upgrade to PRO plan",
+          "link": "/dashboard/settings/billing"
+        }
+      ]
+    },
+    {
+      "icon": "layout-dashboard",
+      "title": "Monitor and Control in One View",
+      "description": "Dashboards let you track multiple devices and data points in real time. Create a full operational views using charts, controls, and status indicators.",
+      "actions": [
+        {
+          "btnText": "Go to Dashboards",
+          "link": "/dashboard/dashboards/"
+        },
+        {
+          "btnText": "Dashboards Guide",
+          "link": "https://docs.blynk.io/en/blynk.console/dashboards"
         }
       ]
     },
