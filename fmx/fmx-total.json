@@ -82,24 +82,24 @@
       ]
     },
     {
-      "icon": "template",
-      "title": "Device Templates",
-      "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
+      "icon": "datastreams",
+      "title": "Datastreams",
+      "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
       "actions": [
         {
-          "btnText": "Create A Template",
-          "link": "/dashboard/templates"
+          "btnText": "Learn More",
+          "link": "https://docs.blynk.io/en/blynk.console/templates/datastreams"
         }
       ]
     },
     {
-      "icon": "webhook",
-      "title": "Webhooks",
-      "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
+      "icon": "sun2",
+      "title": "Automations",
+      "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
       "actions": [
         {
-          "btnText": "Create Webhook",
-          "link": "/dashboard/webhooks"
+          "btnText": "Add Automation",
+          "link": "/dashboard/automations"
         }
       ]
     },
@@ -119,24 +119,24 @@
       ]
     },
     {
-      "icon": "datastreams",
-      "title": "Datastreams",
-      "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
+      "icon": "webhook",
+      "title": "Webhooks",
+      "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
       "actions": [
         {
-          "btnText": "Learn More",
-          "link": "https://docs.blynk.io/en/blynk.console/templates/datastreams"
+          "btnText": "Create Webhook",
+          "link": "/dashboard/webhooks"
         }
       ]
     },
     {
-      "icon": "sun2",
-      "title": "Automations",
-      "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
+      "icon": "template",
+      "title": "Device Templates",
+      "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
       "actions": [
         {
-          "btnText": "Add Automation",
-          "link": "/dashboard/automations"
+          "btnText": "Create A Template",
+          "link": "/dashboard/templates"
         }
       ]
     }
