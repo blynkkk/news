@@ -68,7 +68,7 @@
   "dashboardCards": [
     {
       "icon": "cube",
-      "title": "Onboard your devices in Blynk",
+      "title": "Activate your devices in Blynk",
       "description": "Connect via Blynk.Edgent, Blynk.NCP, MQTT, HTTPs API, LoRaWAN, the Blynk Library, or import from third-party cloud services.",
       "actions": [
         {
@@ -139,11 +139,11 @@
       "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
       "actions": [
         {
-          "btnText": "How to Create Webhooks",
+          "btnText": "Explore Webhooks",
           "link": "https://docs.blynk.io/en/blynk.console/settings/developers/webhooks"
         },
         {
-          "btnText": "Create Webhook",
+          "btnText": "Create a Webhook",
           "link": "/dashboard/webhooks"
         }
       ]
