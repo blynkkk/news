@@ -83,7 +83,7 @@
     },
     {
       "icon": "key",
-      "title": "Auth Token",
+      "title": "What is Auth Token",
       "description": "Devices need an Auth Token to connect to Blynk. Copy it manually from Developer Tools section on device page, or skip this step entirely with Blynk.Edgent.",
       "actions": [
         {
@@ -139,6 +139,10 @@
       "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
       "actions": [
         {
+          "btnText": "How to Create Webhooks",
+          "link": "https://docs.blynk.io/en/blynk.console/settings/developers/webhooks"
+        },
+        {
           "btnText": "Create Webhook",
           "link": "/dashboard/webhooks"
         }
@@ -146,7 +150,7 @@
     },
     {
       "icon": "users",
-      "title": "Organizations",
+      "title": "Organizations / Multi-Tenancy",
       "description": "Use Organizations to manage access and device visibility for clients, partners, or internal teams. Keep projects separate, control permissions, and scale with ease.",
       "actions": [
         {
