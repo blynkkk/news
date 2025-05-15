@@ -82,17 +82,6 @@
       ]
     },
     {
-      "icon": "datastreams",
-      "title": "Datastreams",
-      "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
-      "actions": [
-        {
-          "btnText": "Learn More",
-          "link": "https://docs.blynk.io/en/blynk.console/templates/datastreams"
-        }
-      ]
-    },
-    {
       "icon": "sun2",
       "title": "Automations",
       "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
@@ -137,6 +126,17 @@
         {
           "btnText": "Create A Template",
           "link": "/dashboard/templates"
+        }
+      ]
+    },
+    {
+      "icon": "datastreams",
+      "title": "Datastreams",
+      "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
+      "actions": [
+        {
+          "btnText": "Learn More",
+          "link": "https://docs.blynk.io/en/blynk.console/templates/datastreams"
         }
       ]
     }
