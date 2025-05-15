@@ -97,7 +97,7 @@
       ]
     },
     {
-      "icon": "activity",
+      "icon": "devices",
       "title": "Message Limit",
       "description": "If you exceed the monthly message limit on the Free plan, your devices will stop communicating. Optimise usage or upgrade to keep everything running smoothly.",
       "actions": [
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "icon": "layout-dashboard",
+      "icon": "board",
       "title": "Monitor and Control in One View",
       "description": "Dashboards let you track multiple devices and data points in real time. Create a full operational views using charts, controls, and status indicators.",
       "actions": [
