@@ -1,6 +1,13 @@
 {
   "list": [
     {
+      "path": "/list/mqtt-examples.md",
+      "date": "5.20.2025",
+      "link": "Try now",
+      "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4zGiS1A7l"
+      
+    },
+    {
       "path": "/list/myriotaintegr.md",
       "date": "5.13.2025",
       "link": "Details",
