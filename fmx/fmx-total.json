@@ -164,7 +164,7 @@
       ]
     },
     {
-      "icon": "board",
+      "icon": "chart4",
       "title": "Dashboards",
       "description": "Dashboards let you track multiple devices and data points in real time. Create a full operational views using charts, controls, and status indicators.",
       "actions": [
