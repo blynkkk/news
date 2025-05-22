@@ -73,7 +73,7 @@
       "actions": [
         {
           "btnText": "Connect A Device",
-          "link": "/dashboard/global/devices/"
+          "link": "/global/devices/create-new-device"
         },
         {
           "btnText": "View Compatible Devices",
