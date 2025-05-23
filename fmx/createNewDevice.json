@@ -1,0 +1,451 @@
+{
+  "fallbackCard": {
+    "title": "Need anything custom?",
+    "description": "Contact our sales team to explore your options.",
+    "icon": "customize",
+    "link": "https://blynk.io/console-form?refpage=Fallback"
+  },
+  "cards": [
+    {
+      "Prio": 1,
+      "Icon": "rocket",
+      "Link": "",
+      "Title": "Quickstart",
+      "Description": "A step-by-step guide to get your first device online in less than 5 minutes.",
+      "ShownTags": "Arduino, PlatformIO, C++, WiFi, Ethernet, Cellular, ESP32, Microduino, Particle, Seeed Wio Terminal, SparkFun Blynk Board, Teensy, TinyDuino",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32, Core, Photon, Electron, Boron, Photon 2, P2, Tracker SoM, Tracker One"
+    },
+    {
+      "Prio": 1,
+      "Icon": "rocket",
+      "Link": "https://blynk.cloud/dashboard/integrations",
+      "Title": "Integrations",
+      "Description": "Access and manage all Blynk integrations in one place.",
+      "ShownTags": "AWS, Blues, TTI, Myriota, Cloud-to-cloud, integration, WiFi, Ethernet, Cellular, LoRaWAN, Satellite, LoRaWAN-enabled",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Blues, Miromico, Milesight, Seeed, Tektelic, Thermokon, Pepperl+Fuchs, Atim, MOKOSmart, The Things Stack, The Things Network, The Things Industries, TTN, TTS"
+    },
+    {
+      "Prio": 1,
+      "Icon": "rocket",
+      "Link": "https://blynk.io/console-form?refpage=Chirpstack",
+      "Title": "Chirpstack Integration",
+      "Description": "We can help you connect your Chirpstack-powered devices to Blynk. Available with Enterprise plan.",
+      "ShownTags": "Chirpstack, LNS, LoRaWAN, LoRaWAN-enabled",
+      "HiddenTags": "Blues, Miromico, Milesight, Seeed, Tektelic, Thermokon, Pepperl+Fuchs, Atim, MOKOSmart"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Arduino_Blynk_MQTT/README.md",
+      "Title": "Arduino MQTT Sample",
+      "Description": "Sample code to connect Arduino devices to Blynk via MQTT.",
+      "ShownTags": "Arduino, PlatformIO, C++, WiFi, Arduino Boards, ESP32, ESP8266, Raspberry Pi Pico W, Nano 33 IoT, Nano RP2040 Connect, UNO R4 WiFi, Seeed Wio Terminal",
+      "HiddenTags": "Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32, Espressif, ESP8266, WeMos D1 Mini, NodeMCU, Adafruit HUZZAH ESP8266, SparkFun Thing, ESP-01, ESP-12E, LOLIN D1 Mini, AI-Thinker, Arduino MKR WiFi 1010, Arduino MKR GSM 1400, Arduino MKR NB 1500, Arduino Zero, Arduino Uno, Arduino Duemilanove, Arduino Nano, Arduino Mini, Arduino Pro Mini, Arduino Pro Micro, Arduino Due, Arduino Mega, Arduino MKR1000, Arduino MKR VIDOR 4000, Arduino Portenta H7, Arduino Fio, Arduino M0, Arduino Ethernet"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/C_libmosquitto/README.md",
+      "Title": "C with libmosquitto MQTT Sample",
+      "Description": "MQTT integration example using C and libmosquitto.",
+      "ShownTags": "C, MQTT, Mosquitto, WiFi, Ethernet, Cellular",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/ESP-IDF-Cellular/README.md",
+      "Title": "ESP-IDF Cellular MQTT Sample",
+      "Description": "Cellular ESP-IDF integration with Blynk via MQTT.",
+      "ShownTags": "ESP-IDF, Cellular, ESP32",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/HTML5_WebSocket/README.md",
+      "Title": "HTML5 WebSocket MQTT Sample",
+      "Description": "Web-based MQTT control interface using HTML5 and WebSocket.",
+      "ShownTags": "HTML5, JavaScript, Node.js, WebSocket, WiFi, Ethernet, Cellular",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/MicroPython/README.md",
+      "Title": "MicroPython MQTT Sample",
+      "Description": "Minimal MQTT example for MicroPython devices.",
+      "ShownTags": "Python, MicroPython, WiFi, Ethernet, Cellular, ESP32, Raspberry Pi Pico W, SBC",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Python3/README.md",
+      "Title": "Python 3 MQTT Sample",
+      "Description": "MQTT integration example for Raspberry Pi and industrial gateways.",
+      "ShownTags": "Python, WiFi, Ethernet, Cellular, SBC",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Lua_OpenWrt/README.md",
+      "Title": "Lua OpenWrt MQTT Sample",
+      "Description": "Sample MQTT code for Lua running on OpenWrt.",
+      "ShownTags": "Lua, OpenWrt, WiFi, Ethernet, Cellular, SBC",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/STM32F407_PPPoS_MQTT/README.md",
+      "Title": "STM32F407 PPPoS MQTT Sample",
+      "Description": "MQTT over PPPoS for STM32F407-based projects.",
+      "ShownTags": "FreeRTOS, MQTT, Cellular, STM32",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "code",
+      "Link": "https://github.com/Blynk-Technologies/Blynk-MicroPython-Edgent",
+      "Title": "Blynk.Edgent for MicroPython",
+      "Description": "Enables secure BLE provisioning, OTA updates, multi-network connectivity, and remote REPL access \u2014 all with built-in support for async I/O, TLS, and unified system configuration.",
+      "ShownTags": "OTA, Provisioning, MicroPython, WiFi, Ethernet, Cellular, ESP32, Raspberry Pi Pico W",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32, Python"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/blynk-library-firmware-api/installation",
+      "Title": "Firmware API Installation",
+      "Description": "Guide to installing Blynk firmware library.",
+      "ShownTags": "Arduino, PlatformIO, C++, WiFi, Ethernet, Cellular, Arduino Boards, ESP8266, ESP32",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32, Espressif, ESP8266, WeMos D1 Mini, NodeMCU, Adafruit HUZZAH ESP8266, SparkFun Thing, ESP-01, ESP-12E, LOLIN D1 Mini, AI-Thinker, Arduino MKR WiFi 1010, Arduino MKR GSM 1400, Arduino MKR NB 1500, Arduino Zero, Arduino Uno, Arduino Duemilanove, Arduino Nano, Arduino Mini, Arduino Pro Mini, Arduino Pro Micro, Arduino Due, Arduino Mega, Arduino MKR1000, Arduino MKR VIDOR 4000, Arduino Portenta H7, Arduino Fio, Arduino M0, Arduino Ethernet, Blynk library, Blynk protocol"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api",
+      "Title": "Device MQTT API",
+      "Description": "MQTT API reference for device communication with Blynk.",
+      "ShownTags": "MQTT, MQTTS, WebSocket, WiFi, Ethernet, Cellular",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, TTI, TTN, The Things Stack"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/blynk.cloud/device-https-api",
+      "Title": "Device HTTPS API",
+      "Description": "HTTPS API documentation for direct device-to-cloud communication.",
+      "ShownTags": "HTTP, HTTPS, WiFi, Ethernet, Cellular",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/blynk.edgent/overview",
+      "Title": "Blynk.Edgent Overview",
+      "Description": "Dynamic authentication and OTA updates with Blynk.Edgent.",
+      "ShownTags": "OTA, Provisioning, WiFi, ESP32, ESP8266, Seeed Wio Terminal, TI CC3220",
+      "HiddenTags": "Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32, Espressif, ESP8266, WeMos D1 Mini, NodeMCU, Adafruit HUZZAH ESP8266, SparkFun Thing, ESP-01, ESP-12E, LOLIN D1 Mini, AI-Thinker"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/blynk.ncp/overview",
+      "Title": "Blynk.NCP Overview",
+      "Description": "Offload connectivity and OTA logic using a Network Co-Processor.",
+      "ShownTags": "OTA, Provisioning, Zephyr, Arduino, C99, WiFi, Ethernet, ESP32, Arduino UNO R4 WiFi, Arduino Portenta C33, Arduino Nano RP2040 Connect, Arduino Nano 33 IoT, Arduino MKR WiFi 1010, LILYGO T-PicoC3, Raspberry Pi Pico, ESP8266",
+      "HiddenTags": "Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32, Espressif, ESP8266, WeMos D1 Mini, NodeMCU, Adafruit HUZZAH ESP8266, SparkFun Thing, ESP-01, ESP-12E, LOLIN D1 Mini, AI-Thinker"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/hardware-guides/aws-iot-core",
+      "Title": "AWS IoT Core Integration",
+      "Description": "Guide to integrating AWS IoT Core with Blynk.",
+      "ShownTags": "Cloud-to-cloud, AWS, IoT Core, WiFi, Ethernet, Cellular, LoRaWAN, Satellite, LoRaWAN-enabled",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Blues, Miromico, Milesight, Seeed, Tektelic, Thermokon, Pepperl+Fuchs, Atim, MOKOSmart"
+    },
+    {
+      "Prio": 2,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/hardware-guides/blues",
+      "Title": "Blues Wireless Integration",
+      "Description": "Use Blues Cellular Notecard to send sensor data to Blynk.",
+      "ShownTags": "Cloud-to-cloud, WiFi, Cellular, LoRaWAN, Satellite, Blues",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/myriota",
+      "Title": "Myriota Integration",
+      "Description": "Connect satellite-powered devices to Blynk with Myriota.",
+      "ShownTags": "Cloud-to-cloud, Satellite, Myriota",
+      "HiddenTags": ""
+    },
+    {
+      "Prio": 2,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/hardware-guides/ncd-industrial-vibration-sensor",
+      "Title": "NCD Industrial Vibration Sensor",
+      "Description": "Step-by-step setup for industrial vibration sensors from NCD.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/hardware-guides/node-red",
+      "Title": "Node-RED",
+      "Description": "Connect Node-RED flows to Blynk and control devices visually.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, SBC",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 2,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/hardware-guides/the-things-stack",
+      "Title": "The Things Stack Integration",
+      "Description": "LoRaWAN integration with Blynk using The Things Stack.",
+      "ShownTags": "Integration, Cloud-to-cloud, TTI, LoRaWAN, LoRaWAN-enabled",
+      "HiddenTags": "Blues, Miromico, Milesight, Seeed, Tektelic, Thermokon, Pepperl+Fuchs, Atim, MOKOSmart, The Things Stack, The Things Network, The Things Industries, TTN, TTS"
+    },
+    {
+      "Prio": 2,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens",
+      "Title": "Static Token Management",
+      "Description": "Deploying Products With Static Tokens",
+      "ShownTags": "MQTT, HTTP, HTTPS, Ethernet, Cellular, Satellite",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "file-empty",
+      "Link": "https://docs.blynk.io/en/blynk.cloud/platform-https-api",
+      "Title": "Platform API",
+      "Description": "Perform CRUD operations on devices, users, organizations, automations, webhooks, tags, templates, and more.",
+      "ShownTags": "OAuth2, MQTT, HTTP, HTTPS, WiFi, Ethernet, Cellular, Bridge, Gateway, SBC",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL482vhoHlq",
+      "Title": "Blink an LED with Arduino + Ethernet",
+      "Description": "Remotely control the built-in LED on your Arduino Leonardo, UNO, or Mega board.",
+      "ShownTags": "Arduino, PlatformIO, C++, Ethernet, Arduino Leonardo, Arduino Mega, Arduino Uno, LED",
+      "HiddenTags": ""
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4BlJLIkw7",
+      "Title": "Blink an LED with ESP32 (with WiFi provisioning and OTA)",
+      "Description": "This project is a quick start tutorial on connecting the ESP32 board to Blynk and controlling a built-in LED.",
+      "ShownTags": "FOTA, OTA, device provisioning, wifi provisioning, WiFi, ESP32",
+      "HiddenTags": "Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4uL0xae5N",
+      "Title": "Soil Moisture Monitoring with Wio Terminal",
+      "Description": "Monitor soil moisture & light levels for healthier plants with real-time recommendations.",
+      "ShownTags": "FOTA, OTA, device provisioning, wifi provisioning, WIFI, Seeed Wio Terminal",
+      "HiddenTags": ""
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4RCZ1Wy3i",
+      "Title": "ESP32 Edgent for Cellular and WiFi",
+      "Description": "Blynk.Edgent running on a dual-connectivity board. The LilyGo T-PCIe allows us to use WiFi and Cellular connectivity.",
+      "ShownTags": "FOTA, OTA, device provisioning, wifi provisioning, WiFi, Cellular, Dual-Connectivity, LilyGo\u00ae TTGO T-PCIe",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4j57WtmD7",
+      "Title": "Weather Monitoring on ESP32 (WiFi provisioning & OTA)",
+      "Description": "Weather Station to monitor temperature, humidity, pressure, altitude using Blynk.Edgent for WI-FI provisioning and OTA.",
+      "ShownTags": "FOTA, OTA, device provisioning, wifi provisioning, WiFi, ESP32",
+      "HiddenTags": "Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4WLh2qA0y",
+      "Title": "Weather Monitoring with ESP32 (with static tokens)",
+      "Description": "Effortlessly build a comprehensive Weather Station. Monitor temperature, humidity, atmospheric pressure, and altitude.",
+      "ShownTags": "Arduino, PlatformIO, C++, WIFI, ESP32",
+      "HiddenTags": "Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4ej7--Xu_",
+      "Title": "Connect a Particle device",
+      "Description": "This blueprint will help you set up bi-directional communication with any Particle hardware.",
+      "ShownTags": "HTTP API, webhook, WiFi, Ethernet, Cellular, Particle",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Core, Photon, Electron, Boron, Photon 2, P2, Tracker SoM, Tracker One"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL432pNNbZe",
+      "Title": "Asset Tracking with Particle Boron",
+      "Description": "Track the moving device and monitor its speed on web and mobile dashboards via Particle Webhooks & Blynk HTTP API.",
+      "ShownTags": "HTTP API, GPS, webhook, Cellular, FeatherWing, Particle Boron",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Core, Photon, Electron, Boron, Photon 2, P2, Tracker SoM, Tracker One"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4wL7mp9eA",
+      "Title": "Iridium 9704 Launch Pad",
+      "Description": "Collect data from anywhere on the planet, sending it directly to the palm of your hand from your Iridium 9704 Launch Pad. ",
+      "ShownTags": "GNSS, HTTPs API, Satellite, Iridium 9704 Launch Pad, Iridium, Iridium 9704",
+      "HiddenTags": ""
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL48KJfyGe7",
+      "Title": "Iridium 9704 Launch Pad Premium",
+      "Description": "This blueprint will allow you to collect data from anywhere on the planet, effortlessly sending it directly to the palm of your hand from you Iridium 9704 Launch Pad. ",
+      "ShownTags": "GNSS, HTTPs API, Satellite, Iridium 9704 Launch Pad, Iridium, Iridium 9704",
+      "HiddenTags": ""
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4Bvbtdt3v",
+      "Title": "Basic Environmental Air Quality Solution",
+      "Description": "A simplified way to get your sensor data streaming to the Blynk cloud and pre-built dashboards for monitoring and alerts.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4Rayq6G_B",
+      "Title": "Enterprise Grade Environmental Air Quality Solution",
+      "Description": "Enables bulk deployments. Easily stream data to the cloud and monitor it via pre-built mobile and web dashboards.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL40YtWwLlq",
+      "Title": "Enterprise IIoT Gateway Solution",
+      "Description": "Quickly set up gateway, configure Ethernet, Wi-Fi, and LTE connectivity, and integrate it with Blynk Cloud and Node-RED.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4YmuyzYq4",
+      "Title": "Basic Vibration Sensor Solution",
+      "Description": "Quickly get your sensor data streaming to the cloud and monitor it from ready-made mobile and web dashboards.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4HAlucI1g",
+      "Title": "Enterprise Grade Vibration Monitoring Solution",
+      "Description": "A quick-start project to get your sensor data streaming to the cloud and monitor it from ready-made mobile and web dashboards.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4Lpysk_Je",
+      "Title": "Wireless Contact Closure Solution",
+      "Description": "A quick-start solution to stream your sensor data to the Blynk cloud, with pre-built mobile and web dashboards for real-time monitoring and alerts.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4ofexjN0-",
+      "Title": "Industrial Grade AC Current Monitoring Solution",
+      "Description": "Production-ready solution for real-time sensor data transmission to the gateway and instant streaming to pre-built mobile and web dashboards for monitoring.",
+      "ShownTags": "MQTT, Node-RED, WiFi, Ethernet, Cellular, NCD.io",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4N6f1Lc0o",
+      "Title": "Battery-Free Air Quality Solution for CO2, Temperature, and Humidity",
+      "Description": "A ready-to-use setup for monitoring air quality and comfort \u2014 with dashboards, alerts, and LoRaWAN connectivity.",
+      "ShownTags": "TTI, LoRaWAN, Miromico",
+      "HiddenTags": "The Things Stack, The Things Network, The Things Industries, TTN, TTS"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4ibBvqKR1",
+      "Title": "Production Ready Sound Level Monitoring Solution",
+      "Description": "Enables bulk deployments. Industrial solution with LoRaWAN network setup, key acoustic metrics, pre-built dashboards for monitoring and alerts.",
+      "ShownTags": "TTI, LoRaWAN, Milesight",
+      "HiddenTags": "The Things Stack, The Things Network, The Things Industries, TTN, TTS"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4r-HEzHpc",
+      "Title": "Water Leak Detection Solution",
+      "Description": "A quick-start project to enable water leak detection in various environments, providing real-time alerts to prevent damage.",
+      "ShownTags": "TTI, LoRaWAN, Milesight",
+      "HiddenTags": "The Things Stack, The Things Network, The Things Industries, TTN, TTS"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4zsMOp21D",
+      "Title": "Advanced Weather Monitoring Solution",
+      "Description": "Quickly connect your sensor to the cloud and monitor essential environmental data \u2014 from air temperature and humidity to wind, precipitation, solar radiation, UV index, and more. ",
+      "ShownTags": "TTI, LoRaWAN, Seeed",
+      "HiddenTags": "The Things Stack, The Things Network, The Things Industries, TTN, TTS"
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4u3CRY3Vj",
+      "Title": "Build an App for Your OpenWrt Router",
+      "Description": "Create an app for the popular WiFi router.",
+      "ShownTags": "Lua, WiFi, Ethernet, OpenWrt, SBC",
+      "HiddenTags": ""
+    },
+    {
+      "Prio": 1,
+      "Icon": "blueprint",
+      "Link": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4zGiS1A7l",
+      "Title": "MQTT Air Cooler/Heater Demo",
+      "Description": "Connect, control, and monitor MQTT devices.",
+      "ShownTags": "Python, JavaScript, Lua, C, C++, MicroPython, WiFi, Ethernet, Cellular, SBC, STM32, ESP32, Raspberry Pi Pico W, Nano 33 IoT, Nano RP2040 Connect, UNO R4 WiFi, Seeed Wio Terminal, ESP32",
+      "HiddenTags": "LTE, GSM, HSDPA, HSPA+, 3GPP, EDGE, 2G, 3G, 4G, 5G, Cat M1, Cat M4, Espressif, ESP32-C3, ESP32-C6, ESP32-C5, ESP32-S3, ESP32-S2, ESP32-PICO-D4, ESP32-WROOM-32, ESP32-WROVER, ESP32-SOLO-1, ESP32-NINA-W102, TTGO T8, TTGO T-Display, TTGO T-Beam, M5Stack Core2, M5StickC, LILYGO T-SIM7000G, Olimex ESP32-EVB, D1 Mini ESP32"
+    }
+  ],
+  "featuredTags": [
+    "ESP32",
+    "Arduino",
+    "Python",
+    "LoRaWAN",
+    "Satellite",
+    "Node-RED",
+    "OTA"
+  ]
+}
