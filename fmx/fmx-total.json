@@ -9,6 +9,13 @@
       "link": "https://www.youtube.com/watch?v=AaqlFU388vQ?rel=0"
     },
     {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
+      "title": "No-code automations",
+      "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
+      "btnText": "Try Now",
+      "link": "/dashboard/automations"
+    },
+    {
       "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-6.png",
       "title": "Events, alerts and notifications",
       "description": "Track important events, receive real-time alerts, and configure notifications for your devices.",
@@ -56,13 +63,6 @@
       "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
       "btnText": "Watch",
       "link": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
-      "title": "No-code automations",
-      "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
-      "btnText": "Try Now",
-      "link": "/dashboard/automations"
     }
   ],
   "dashboardCards": [
