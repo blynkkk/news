@@ -37,6 +37,13 @@
       "link": "https://blynk.io/console-form?refpage=Publishing%20a%20Branded%20App"
     },
     {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/datastreams.png",
+      "title": "Connect and manage data with Datastreams",
+      "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
+      "btnText": "Watch",
+      "link": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4"
+    },
+    {
       "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/data-visualization-snapshot.png",
       "title": "Customize your app's look and feel",
       "description": "Skip the time-consuming app review process and customize your app with no coding required.",
@@ -56,13 +63,6 @@
       "description": "Use a pre-built template with all the essentials to get your device up and running instantly.",
       "btnText": "View Blueprints",
       "link": "/dashboard/blueprints/Library"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/datastreams.png",
-      "title": "Connect and manage data with Datastreams",
-      "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
-      "btnText": "Watch",
-      "link": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4"
     }
   ],
   "dashboardCards": [
