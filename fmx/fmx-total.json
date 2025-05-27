@@ -2,7 +2,7 @@
   "introVideoUrl": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4",
   "featuresCarousel": [
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device.png",
       "title": "How to connect a device to Blynk",
       "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
       "btnText": "Watch",
@@ -23,7 +23,7 @@
       "link": "/dashboard/shipments/all"
     },
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-5.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/white-label.png",
       "title": "Launch your white-label app and go live with your solution",
       "description": "Our team will guide you through every step of the publishing process for a smooth launch on the App Store and Google Play.",
       "btnText": "Get Started with a Demo",
@@ -44,21 +44,21 @@
       "link": "/dashboard/settings/users"
     },
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-7.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/blueprints.png",
       "title": "Create your app in minutes with Blueprints",
       "description": "Use a pre-built template with all the essentials to get your device up and running instantly.",
       "btnText": "View Blueprints",
       "link": "/dashboard/blueprints/Library"
     },
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-3.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/datastreams.png",
       "title": "Connect and manage data with Datastreams",
       "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
       "btnText": "Watch",
       "link": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4"
     },
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-1.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
       "title": "No-code automations",
       "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
       "btnText": "Try Now",
