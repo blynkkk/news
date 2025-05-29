@@ -1,6 +1,13 @@
 {
   "list": [
    {
+      "path": "/list/openweather.md",
+      "date": "5.29.2025",
+      "link": "Details",
+      "URL": "https://docs.blynk.io/en/openweather?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=openweather"
+      
+    },
+   {
       "path": "/list/devicetable.md",
       "date": "5.22.2025",
       "link": "Details",
