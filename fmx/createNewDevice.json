@@ -1672,6 +1672,42 @@
       "hiddenTags": [],
       "link": "https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr",
       "prio": 1
+    },
+    {
+      "title": "Test BP: Blink an LED with ESP32 (with WiFi provisioning and OTA)",
+      "description": "This project is a quick start tutorial on connecting the ESP32 board to Blynk and controlling a built-in LED.",
+      "icon": "blueprint",
+      "shownTags": [
+        "FOTA",
+        "OTA",
+        "device provisioning",
+        "WiFi provisioning",
+        "WiFi",
+        "ESP32"
+      ],
+      "hiddenTags": [
+        "Espressif",
+        "ESP32-C3",
+        "ESP32-C6",
+        "ESP32-C5",
+        "ESP32-S3",
+        "ESP32-S2",
+        "ESP32-PICO-D4",
+        "ESP32-WROOM-32",
+        "ESP32-WROVER",
+        "ESP32-SOLO-1",
+        "ESP32-NINA-W102",
+        "TTGO T8",
+        "TTGO T-Display",
+        "TTGO T-Beam",
+        "M5Stack Core2",
+        "M5StickC",
+        "LILYGO T-SIM7000G",
+        "Olimex ESP32-EVB",
+        "D1 Mini ESP32"
+      ],
+      "link": "/dashboard/blueprints/Library/TMPL87o7y8kMt",
+      "prio": 1
     }
   ],
   "featuredTags": [
