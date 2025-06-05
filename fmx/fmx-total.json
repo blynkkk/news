@@ -220,5 +220,97 @@
       "description": "Bring your IoT solution to market at low-code speed.",
       "link": "https://blynk.io/console-form?refpage=Custom%20Development"
     }
+  ],
+  "sidebarProgressSteps": [
+    {
+      "iconType": "circle",
+      "label": "Intro to Blynk",
+      "children": {
+        "video": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4",
+        "paragraphs": [
+          "Watch our platform video to quickly understand how Blynk empowers your IoT projects",
+          "In just a few minutes you’ll see how easy it is to build, connect and manage your devices from anywhere"
+        ]
+      }
+    },
+    {
+      "iconType": "circle",
+      "label": "Add template or blueprint",
+      "children": {
+        "video": "https://www.youtube.com/embed/AaqlFU388vQ",
+        "paragraphs": [
+          "Learn how to create a custom device template or leverage ready-made use-case blueprints"
+        ],
+        "links": [
+          {
+            "label": "Use a blueprint",
+            "link": "/blueprints/Library",
+            "iconType": "arrow-right"
+          },
+          {
+            "label": "Create template",
+            "link": "/templates",
+            "iconType": "arrow-right"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Connect first device",
+      "children": {
+        "video": "https://www.youtube.com/embed/AaqlFU388vQ",
+        "paragraphs": [
+          "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
+        ],
+        "links": [
+          {
+            "label": "Connect your device",
+            "link": "/global/devices/create-new-device",
+            "iconType": "arrow-right"
+          }
+        ]
+      }
+    },
+    {
+      "iconType": "circle",
+      "label": "Visualize device’s data",
+      "children": {
+        "video": "https://www.youtube.com/embed/AaqlFU388vQ",
+        "paragraphs": [
+          "The core behind visualizing device data are datastreams"
+        ],
+        "links": [
+          {
+            "label": "Add a datastream to your template",
+            "link": "/templates",
+            "iconType": "arrow-right"
+          },
+          {
+            "label": "Build a device dashboard in your template",
+            "link": "/templates",
+            "iconType": "arrow-right"
+          }
+        ]
+      }
+    },
+    {
+      "iconType": "circle",
+      "label": "Download Blynk mobile app",
+      "children": {
+        "QRCodes": [
+          {
+            "src": "https://play.google.com/store/apps/details?id=cloud.blynk&utm_source=fmx&utm_campaign=steps&utm_content=step5&pli=1",
+            "caption": "Android"
+          },
+          {
+            "src": "https://apps.apple.com/ua/app/blynk-iot/id1559317868",
+            "caption": "iOS"
+          }
+        ],
+        "paragraphs": [
+          "You can build your app UI directly on your mobile phone"
+        ]
+      }
+    }
   ]
 }
