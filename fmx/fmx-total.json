@@ -258,7 +258,7 @@
     {
       "label": "Connect first device",
       "children": {
-        "video": "https://www.youtube.com/embed/AaqlFU388vQ?rel=0",
+        "video": "https://www.youtube.com/embed/ahWWdn-Scho?rel=0",
         "paragraphs": [
           "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
         ],
@@ -275,7 +275,7 @@
       "iconType": "circle",
       "label": "Visualize device’s data",
       "children": {
-        "video": "https://www.youtube.com/embed/AaqlFU388vQ?rel=0",
+        "video": "https://www.youtube.com/embed/eHC9xn9YUMg?rel=0",
         "paragraphs": [
           "The core behind visualizing device data are datastreams"
         ],
