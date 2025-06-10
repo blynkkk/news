@@ -83,7 +83,7 @@
     },
     {
       "icon": "key",
-      "title": "What is Auth Token",
+      "title": "What is Authentication Token?",
       "description": "Devices need an Auth Token to connect to Blynk. Copy it manually from Developer Tools section on device page, or skip this step entirely with Blynk.Edgent.",
       "actions": [
         {
