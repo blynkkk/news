@@ -1,5 +1,12 @@
 {
   "list": [
+    {
+      "path": "/list/fleetanalytics.md",
+      "date": "6.11.2025",
+      "link": "Learn more",
+      "URL": "https://docs.blynk.io/en/blynk.console/dashboards/dashboard-widgets?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=platformdata#platform-data-widgets"
+      
+    },
    {
       "path": "/list/openweather.md",
       "date": "5.29.2025",
