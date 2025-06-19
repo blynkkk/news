@@ -1,60 +1,58 @@
 {
   "list": [
+     {
+      "path": "/list/bluesbp.md",
+      "date": "6.19.2025",
+      "link": "Try now",
+      "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4irZ1F2AA"
+    },
     {
       "path": "/list/gradientramp.md",
       "date": "6.17.2025",
       "link": "Details",
       "URL": "https://docs.blynk.io/en/blynk.console/widgets-console/gradient-ramp?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=gradientramp"
-      
     },
     {
       "path": "/list/fleetanalytics.md",
       "date": "6.11.2025",
       "link": "Learn more",
-      "URL": "https://docs.blynk.io/en/blynk.console/dashboards/dashboard-widgets?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=platformdata#platform-data-widgets"
-      
+      "URL": "https://docs.blynk.io/en/blynk.console/dashboards/dashboard-widgets?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=platformdata#platform-data-widgets"   
     },
    {
       "path": "/list/openweather.md",
       "date": "5.29.2025",
       "link": "Details",
       "URL": "https://docs.blynk.io/en/openweather?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=openweather"
-      
     },
    {
       "path": "/list/devicetable.md",
       "date": "5.22.2025",
       "link": "Details",
-      "URL": "https://docs.blynk.io/en/blynk.console/dashboards/dashboard-widgets?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=devicetable#device-table"
-      
+      "URL": "https://docs.blynk.io/en/blynk.console/dashboards/dashboard-widgets?utm_source=console&utm_medium=news&utm_campaign=widget&utm_content=devicetable#device-table"  
     },
     {
       "path": "/list/mqtt-examples.md",
       "date": "5.20.2025",
       "link": "Try now",
       "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4zGiS1A7l"
-      
     },
     {
       "path": "/list/myriotaintegr.md",
       "date": "5.13.2025",
       "link": "Details",
-      "URL": "https://docs.blynk.io/en/myriota?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=myriotaintegr"
-      
+      "URL": "https://docs.blynk.io/en/myriota?utm_source=console&utm_medium=news&utm_campaign=guide&utm_content=myriotaintegr"    
     },
     {
       "path": "/list/miromicoaq.md",
       "date": "5.12.2025",
       "link": "Try now",
       "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4N6f1Lc0o"
-      
     },
     {
       "path": "/list/leakdetectionbp.md",
       "date": "4.17.2025",
       "link": "Try now",
-      "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4r-HEzHpc"
-      
+      "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4r-HEzHpc" 
     },
     {
       "path": "/list/seeedweather.md",
