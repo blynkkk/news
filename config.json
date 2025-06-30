@@ -1,5 +1,11 @@
 {
   "list": [
+    {
+      "path": "/list/esp32bp.md",
+      "date": "6.30.2025",
+      "link": "Try now",
+      "URL": "https://blynk.cloud/dashboard/blueprints/Library/TMPL4j57WtmD7"
+    },
      {
       "path": "/list/bitmask.md",
       "date": "6.24.2025",
