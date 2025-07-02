@@ -2084,6 +2084,38 @@
       ],
       "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l",
       "prio": 10
+    },
+    {
+      "title": "Blues - Multi-Connectivity IoT Starter",
+      "description": "Universal monitor with Blues Notecard: tracks temp, pressure, battery, door alerts&signal — unified config for any radio",
+      "icon": "blueprint",
+      "shownTags": [
+        "Cloud-to-cloud",
+        "WiFi",
+        "LoRaWAN",
+        "Cellular",
+        "Blues"
+      ],
+      "hiddenTags": [
+        "LTE",
+        "GSM",
+        "HSDPA",
+        "HSPA+",
+        "3GPP",
+        "EDGE",
+        "2G",
+        "3G",
+        "4G",
+        "5G",
+        "Cat M1",
+        "Cat M4",
+        "Wi-Fi",
+        "Wi Fi",
+        "template",
+        "blueprint"
+      ],
+      "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l",
+      "prio": 10
     }
   ],
   "featuredTags": [
