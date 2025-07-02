@@ -6,7 +6,7 @@
       "title": "How to connect a device to Blynk",
       "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
       "btnText": "Watch",
-      "link": "https://www.youtube.com/embed/ahWWdn-Scho?rel=0"
+      "link": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0"
     },
     {
       "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
@@ -258,7 +258,7 @@
     {
       "label": "Connect first device",
       "children": {
-        "video": "https://www.youtube.com/embed/ahWWdn-Scho?rel=0",
+        "video": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0",
         "paragraphs": [
           "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
         ],
