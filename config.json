@@ -1,5 +1,11 @@
 {
   "list": [
+   {
+      "path": "/list/devicetl.md",
+      "date": "7.4.2025",
+      "link": "Check it out",
+      "URL": "https://docs.blynk.io/en/blynk.console/devices/device-profile/timeline?utm_source=console&utm_medium=news&utm_campaign=features&utm_content=timeline"
+    },
     {
       "path": "/list/esp32bp.md",
       "date": "6.30.2025",
