@@ -238,6 +238,7 @@
       "label": "Add template or blueprint",
       "children": {
         "video": "https://www.youtube.com/embed/S3vv2R4_o4I?rel=0",
+        "image": "https://###",
         "paragraphs": [
           "Learn how to create a custom device template or leverage ready-made use-case blueprints"
         ],
@@ -259,6 +260,7 @@
       "label": "Connect first device",
       "children": {
         "video": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0",
+        "image": "https://###",
         "paragraphs": [
           "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
         ],
@@ -276,6 +278,7 @@
       "label": "Visualize device’s data",
       "children": {
         "video": "https://www.youtube.com/embed/eHC9xn9YUMg?rel=0",
+        "image": "https://###",
         "paragraphs": [
           "The core behind visualizing device data are datastreams"
         ],
