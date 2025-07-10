@@ -72,7 +72,7 @@
       "description": "Connect via Blynk.Edgent, Blynk.NCP, MQTT, HTTPs API, LoRaWAN, the Blynk Library, or import from third-party cloud services.",
       "actions": [
         {
-          "btnText": "Connect A Device",
+          "btnText": "Connect a Device",
           "link": "/global/devices/create-new-device"
         },
         {
