@@ -2,7 +2,7 @@
   "introVideoUrl": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4",
   "featuresCarousel": [
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/onnect-device-gallery.png",
       "title": "How to connect a device to Blynk",
       "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
       "btnText": "Watch",
@@ -238,7 +238,7 @@
       "label": "Add template or blueprint",
       "children": {
         "video": "https://www.youtube.com/embed/S3vv2R4_o4I?rel=0",
-        "image": "https://###",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/add-template.png",
         "paragraphs": [
           "Learn how to create a custom device template or leverage ready-made use-case blueprints"
         ],
@@ -260,7 +260,7 @@
       "label": "Connect first device",
       "children": {
         "video": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0",
-        "image": "https://###",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/add-template.png",
         "paragraphs": [
           "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
         ],
@@ -278,7 +278,7 @@
       "label": "Visualize device’s data",
       "children": {
         "video": "https://www.youtube.com/embed/eHC9xn9YUMg?rel=0",
-        "image": "https://##",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/visualize-data.png",
         "paragraphs": [
           "The core behind visualizing device data are datastreams"
         ],
