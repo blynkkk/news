@@ -2,7 +2,7 @@
   "introVideoUrl": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/video/blynk-iot-platform-overview.mp4",
   "featuresCarousel": [
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/onnect-device-gallery.png",
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device-gallery.png",
       "title": "How to connect a device to Blynk",
       "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
       "btnText": "Watch",
