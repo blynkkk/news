@@ -260,7 +260,7 @@
       "label": "Connect first device",
       "children": {
         "video": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0",
-        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/add-template.png",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device-step.png",
         "paragraphs": [
           "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
         ],
