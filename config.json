@@ -1,5 +1,11 @@
 {
   "list": [
+     {
+      "path": "/list/intercom.md",
+      "date": "7.15.2025",
+      "link": "Contact Sales",
+      "URL": "https://blynk.io/console-form"
+    },
    {
       "path": "/list/devicetl.md",
       "date": "7.4.2025",
