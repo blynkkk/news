@@ -1,16 +1,16 @@
 {
-  "fallbackCard": {
+"fallbackCard": {
     "title": "Need anything custom?",
     "description": "Contact our sales team to explore your options.",
     "icon": "rocket",
     "link": "https://blynk.io/console-form?refpage=Custom%20development"
-  },
-  "cards": [
+},
+"cards": [
     {
-      "title": "Quickstart",
-      "description": "A step-by-step guide to get your first device online in less than 5 minutes.",
-      "icon": "rocket",
-      "shownTags": [
+    "title": "Quickstart",
+    "description": "A step-by-step guide to get your first device online in less than 5 minutes.",
+    "icon": "rocket",
+    "shownTags": [
         "Arduino",
         "PlatformIO",
         "C++",
@@ -24,8 +24,8 @@
         "SparkFun Blynk Board",
         "Teensy",
         "TinyDuino"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -71,30 +71,31 @@
         "AI-Thinker",
         "Wi-Fi",
         "Wi Fi"
-      ],
-      "link": "",
-      "prio": 20,
-      "actions": [
+    ],
+    "link": "",
+    "prio": 20,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Start now",
-          "link": ""
+        "type": "link",
+        "btnText": "Start now",
+        "link": ""
         }
-      ]
+    ]
     },
     {
-      "title": "Chirpstack Integration",
-      "description": "We can help you connect your Chirpstack-powered devices to Blynk. Available with Enterprise plan.",
-      "icon": "enter2",
-      "shownTags": [
+    "title": "Chirpstack Integration",
+    "description":
+        "We can help you connect your Chirpstack-powered devices to Blynk. Available with Enterprise plan.",
+    "icon": "enter2",
+    "shownTags": [
         "Chirpstack",
         "LNS",
         "Cloud-to-cloud",
         "Integration",
         "LoRaWAN",
         "LoRaWAN-enabled"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Miromico",
         "Milesight",
         "Seeed",
@@ -104,22 +105,22 @@
         "Atim",
         "MOKOSmart",
         "Low Power"
-      ],
-      "link": "https://blynk.io/console-form?refpage=Chirpstack",
-      "prio": 40,
-      "actions": [
+    ],
+    "link": "https://blynk.io/console-form?refpage=Chirpstack",
+    "prio": 40,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Contact sales",
-          "link": "https://blynk.io/console-form?refpage=Chirpstack"
+        "type": "link",
+        "btnText": "Contact sales",
+        "link": "https://blynk.io/console-form?refpage=Chirpstack"
         }
-      ]
+    ]
     },
     {
-      "title": "AWS IoT Core Integration",
-      "description": "Integrate AWS IoT Core with Blynk.",
-      "icon": "enter2",
-      "shownTags": [
+    "title": "AWS IoT Core Integration",
+    "description": "Integrate AWS IoT Core with Blynk.",
+    "icon": "enter2",
+    "shownTags": [
         "Cloud-to-cloud",
         "AWS",
         "IoT Core",
@@ -130,8 +131,8 @@
         "LoRaWAN",
         "Satellite",
         "LoRaWAN-enabled"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -155,27 +156,27 @@
         "Low Power",
         "Wi-Fi",
         "Wi Fi"
-      ],
-      "link": "/dashboard/integrations?aws",
-      "prio": 40,
-      "actions": [
+    ],
+    "link": "/dashboard/integrations?aws",
+    "prio": 40,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Set up now",
-          "link": "/dashboard/integrations?aws"
+        "type": "secondary",
+        "btnText": "Set up now",
+        "link": "/dashboard/integrations?aws"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/hardware-guides/aws-iot-core"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/hardware-guides/aws-iot-core"
         }
-      ]
+    ]
     },
     {
-      "title": "Blues Integration",
-      "description": "Use Blues Notecard to send sensor data to Blynk.",
-      "icon": "enter2",
-      "shownTags": [
+    "title": "Blues Integration",
+    "description": "Use Blues Notecard to send sensor data to Blynk.",
+    "icon": "enter2",
+    "shownTags": [
         "Cloud-to-cloud",
         "Integration",
         "WiFi",
@@ -183,8 +184,8 @@
         "LoRaWAN",
         "Satellite",
         "Blues"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -199,60 +200,49 @@
         "Cat M4",
         "Wi-Fi",
         "Wi Fi"
-      ],
-      "link": "/dashboard/integrations?blues",
-      "prio": 40,
-      "actions": [
+    ],
+    "link": "/dashboard/integrations?blues",
+    "prio": 40,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Set up now",
-          "link": "/dashboard/integrations?blues"
+        "type": "secondary",
+        "btnText": "Set up now",
+        "link": "/dashboard/integrations?blues"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/hardware-guides/blues"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/hardware-guides/blues"
         }
-      ]
+    ]
     },
     {
-      "title": "Myriota Integration",
-      "description": "Connect satellite-powered devices to Blynk with Myriota.",
-      "icon": "enter2",
-      "shownTags": [
-        "Cloud-to-cloud",
-        "Integration",
-        "Satellite",
-        "Myriota"
-      ],
-      "hiddenTags": [],
-      "link": "/dashboard/integrations?myriota",
-      "prio": 40,
-      "actions": [
+    "title": "Myriota Integration",
+    "description": "Connect satellite-powered devices to Blynk with Myriota.",
+    "icon": "enter2",
+    "shownTags": ["Cloud-to-cloud", "Integration", "Satellite", "Myriota"],
+    "hiddenTags": [],
+    "link": "/dashboard/integrations?myriota",
+    "prio": 40,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Set up now",
-          "link": "/dashboard/integrations?myriota"
+        "type": "secondary",
+        "btnText": "Set up now",
+        "link": "/dashboard/integrations?myriota"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/myriota"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/myriota"
         }
-      ]
+    ]
     },
     {
-      "title": "The Things Stack Integration",
-      "description": "LoRaWAN integration with Blynk using The Things Stack.",
-      "icon": "enter2",
-      "shownTags": [
-        "Integration",
-        "Cloud-to-cloud",
-        "TTI",
-        "LoRaWAN",
-        "LoRaWAN-enabled"
-      ],
-      "hiddenTags": [
+    "title": "The Things Stack Integration",
+    "description": "LoRaWAN integration with Blynk using The Things Stack.",
+    "icon": "enter2",
+    "shownTags": ["Integration", "Cloud-to-cloud", "TTI", "LoRaWAN", "LoRaWAN-enabled"],
+    "hiddenTags": [
         "Miromico",
         "Milesight",
         "Seeed",
@@ -267,27 +257,27 @@
         "The Things Industries",
         "TTN",
         "TTS"
-      ],
-      "link": "/dashboard/integrations?tti",
-      "prio": 40,
-      "actions": [
+    ],
+    "link": "/dashboard/integrations?tti",
+    "prio": 40,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Set up now",
-          "link": "/dashboard/integrations?tti"
+        "type": "secondary",
+        "btnText": "Set up now",
+        "link": "/dashboard/integrations?tti"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/hardware-guides/the-things-stack"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/hardware-guides/the-things-stack"
         }
-      ]
+    ]
     },
     {
-      "title": "Blynk.NCP Example for Zephyr RTOS",
-      "description": "Getting started with Blynk.NCP on Zephyr",
-      "icon": "code",
-      "shownTags": [
+    "title": "Blynk.NCP Example for Zephyr RTOS",
+    "description": "Getting started with Blynk.NCP on Zephyr",
+    "icon": "code",
+    "shownTags": [
         "Zephyr",
         "NCP",
         "FOTA",
@@ -297,31 +287,28 @@
         "WiFi",
         "NRF52",
         "STM32"
-      ],
-      "hiddenTags": [
-        "Wi-Fi",
-        "Wi Fi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr",
-      "prio": 30,
-      "actions": [
+    ],
+    "hiddenTags": ["Wi-Fi", "Wi Fi"],
+    "link": "https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-NCP-Example-Zephyr"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.ncp/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.ncp/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "Arduino MQTT Sample",
-      "description": "Sample code to connect Arduino devices to Blynk via MQTT.",
-      "icon": "code",
-      "shownTags": [
+    "title": "Arduino MQTT Sample",
+    "description": "Sample code to connect Arduino devices to Blynk via MQTT.",
+    "icon": "code",
+    "shownTags": [
         "Arduino",
         "PlatformIO",
         "C++",
@@ -335,8 +322,8 @@
         "Nano RP2040 Connect",
         "UNO R4 WiFi",
         "Seeed Wio Terminal"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Espressif",
         "ESP32-C3",
         "ESP32-C6",
@@ -389,35 +376,28 @@
         "Wi-Fi",
         "Wi Fi",
         "Raspi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Arduino_Blynk_MQTT/README.md",
-      "prio": 49,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Arduino_Blynk_MQTT/README.md",
+    "prio": 49,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Arduino_Blynk_MQTT/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Arduino_Blynk_MQTT/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "C with libmosquitto MQTT Sample",
-      "description": "MQTT integration example using C and libmosquitto.",
-      "icon": "code",
-      "shownTags": [
-        "C",
-        "MQTT",
-        "Mosquitto",
-        "WiFi",
-        "Ethernet",
-        "Cellular"
-      ],
-      "hiddenTags": [
+    "title": "C with libmosquitto MQTT Sample",
+    "description": "MQTT integration example using C and libmosquitto.",
+    "icon": "code",
+    "shownTags": ["C", "MQTT", "Mosquitto", "WiFi", "Ethernet", "Cellular"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -433,32 +413,28 @@
         "Wi-Fi",
         "Wi Fi",
         "WebSocket"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/C_libmosquitto/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/C_libmosquitto/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/C_libmosquitto/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/C_libmosquitto/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "ESP-IDF Cellular MQTT Sample",
-      "description": "Cellular ESP-IDF integration with Blynk via MQTT.",
-      "icon": "code",
-      "shownTags": [
-        "ESP-IDF",
-        "Cellular",
-        "ESP32"
-      ],
-      "hiddenTags": [
+    "title": "ESP-IDF Cellular MQTT Sample",
+    "description": "Cellular ESP-IDF integration with Blynk via MQTT.",
+    "icon": "code",
+    "shownTags": ["ESP-IDF", "Cellular", "ESP32"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -492,36 +468,28 @@
         "D1 Mini ESP32",
         "ESP32 Wi-Fi",
         "ESP32 WiFi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/ESP-IDF-Cellular/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/ESP-IDF-Cellular/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/ESP-IDF-Cellular/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/ESP-IDF-Cellular/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "HTML5 WebSocket MQTT Sample",
-      "description": "Web-based MQTT control interface using HTML5 and WebSocket.",
-      "icon": "code",
-      "shownTags": [
-        "HTML5",
-        "JavaScript",
-        "Node.js",
-        "WebSocket",
-        "WiFi",
-        "Ethernet",
-        "Cellular"
-      ],
-      "hiddenTags": [
+    "title": "HTML5 WebSocket MQTT Sample",
+    "description": "Web-based MQTT control interface using HTML5 and WebSocket.",
+    "icon": "code",
+    "shownTags": ["HTML5", "JavaScript", "Node.js", "WebSocket", "WiFi", "Ethernet", "Cellular"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -536,27 +504,27 @@
         "Cat M4",
         "Wi-Fi",
         "Wi Fi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/HTML5_WebSocket/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/HTML5_WebSocket/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/HTML5_WebSocket/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/HTML5_WebSocket/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "MicroPython MQTT Sample",
-      "description": "Minimal MQTT example for MicroPython devices.",
-      "icon": "code",
-      "shownTags": [
+    "title": "MicroPython MQTT Sample",
+    "description": "Minimal MQTT example for MicroPython devices.",
+    "icon": "code",
+    "shownTags": [
         "Python",
         "MicroPython",
         "WiFi",
@@ -565,8 +533,8 @@
         "ESP32",
         "Raspberry Pi Pico W",
         "SBC"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -620,34 +588,28 @@
         "Wi-Fi",
         "Wi Fi",
         "Raspi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/MicroPython/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/MicroPython/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/MicroPython/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/MicroPython/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Python 3 MQTT Sample",
-      "description": "MQTT integration example for Raspberry Pi and industrial gateways.",
-      "icon": "code",
-      "shownTags": [
-        "Python",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "SBC"
-      ],
-      "hiddenTags": [
+    "title": "Python 3 MQTT Sample",
+    "description": "MQTT integration example for Raspberry Pi and industrial gateways.",
+    "icon": "code",
+    "shownTags": ["Python", "WiFi", "Ethernet", "Cellular", "SBC"],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -680,35 +642,28 @@
         "Wi-Fi",
         "Wi Fi",
         "Raspi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Python3/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Python3/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Python3/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Python3/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Lua OpenWrt MQTT Sample",
-      "description": "Sample MQTT code for Lua running on OpenWrt.",
-      "icon": "code",
-      "shownTags": [
-        "Lua",
-        "OpenWrt",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "SBC"
-      ],
-      "hiddenTags": [
+    "title": "Lua OpenWrt MQTT Sample",
+    "description": "Sample MQTT code for Lua running on OpenWrt.",
+    "icon": "code",
+    "shownTags": ["Lua", "OpenWrt", "WiFi", "Ethernet", "Cellular", "SBC"],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -740,33 +695,28 @@
         "Cat M4",
         "Wi-Fi",
         "Wi Fi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Lua_OpenWrt/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Lua_OpenWrt/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Lua_OpenWrt/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/Lua_OpenWrt/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "STM32F407 PPPoS MQTT Sample",
-      "description": "MQTT over PPPoS for STM32F407-based projects.",
-      "icon": "code",
-      "shownTags": [
-        "FreeRTOS",
-        "MQTT",
-        "Cellular",
-        "STM32"
-      ],
-      "hiddenTags": [
+    "title": "STM32F407 PPPoS MQTT Sample",
+    "description": "MQTT over PPPoS for STM32F407-based projects.",
+    "icon": "code",
+    "shownTags": ["FreeRTOS", "MQTT", "Cellular", "STM32"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -780,27 +730,28 @@
         "Cat M1",
         "Cat M4",
         "WebSocket"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/STM32F407_PPPoS_MQTT/README.md",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/STM32F407_PPPoS_MQTT/README.md",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/STM32F407_PPPoS_MQTT/README.md"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MQTT-Samples/blob/main/STM32F407_PPPoS_MQTT/README.md"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Blynk.Edgent for MicroPython",
-      "description": "Enables secure BLE provisioning, OTA updates, multi-network connectivity, and remote REPL access — all with built-in support for async I/O, TLS, and unified system configuration.",
-      "icon": "code",
-      "shownTags": [
+    "title": "Blynk.Edgent for MicroPython",
+    "description":
+        "Enables secure BLE provisioning, OTA updates, multi-network connectivity, and remote REPL access — all with built-in support for async I/O, TLS, and unified system configuration.",
+    "icon": "code",
+    "shownTags": [
         "OTA",
         "Provisioning",
         "MicroPython",
@@ -809,8 +760,8 @@
         "Cellular",
         "ESP32",
         "Raspberry Pi Pico W"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -848,27 +799,27 @@
         "Wi Fi",
         "Python",
         "Raspi"
-      ],
-      "link": "https://github.com/Blynk-Technologies/Blynk-MicroPython-Edgent",
-      "prio": 30,
-      "actions": [
+    ],
+    "link": "https://github.com/Blynk-Technologies/Blynk-MicroPython-Edgent",
+    "prio": 30,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Code example",
-          "link": "https://github.com/Blynk-Technologies/Blynk-MicroPython-Edgent"
+        "type": "link",
+        "btnText": "Code example",
+        "link": "https://github.com/Blynk-Technologies/Blynk-MicroPython-Edgent"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "Firmware API (Blynk Library)",
-      "description": "Guide to installing Blynk firmware library.",
-      "icon": "book",
-      "shownTags": [
+    "title": "Firmware API (Blynk Library)",
+    "description": "Guide to installing Blynk firmware library.",
+    "icon": "book",
+    "shownTags": [
         "Arduino",
         "PlatformIO",
         "C++",
@@ -879,8 +830,8 @@
         "Arduino Boards",
         "ESP8266",
         "ESP32"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -946,22 +897,22 @@
         "Wi Fi",
         "Blynk library",
         "Blynk protocol"
-      ],
-      "link": "https://docs.blynk.io/en/blynk-library-firmware-api/installation",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/blynk-library-firmware-api/installation",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk-library-firmware-api/installation"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk-library-firmware-api/installation"
         }
-      ]
+    ]
     },
     {
-      "title": "Device MQTT API",
-      "description": "MQTT API reference for device communication with Blynk.",
-      "icon": "book",
-      "shownTags": [
+    "title": "Device MQTT API",
+    "description": "MQTT API reference for device communication with Blynk.",
+    "icon": "book",
+    "shownTags": [
         "MQTT",
         "MQTTS",
         "WebSocket",
@@ -971,8 +922,8 @@
         "Ethernet",
         "Cellular",
         "SBC"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -1008,36 +959,28 @@
         "Wi-Fi",
         "Wi Fi",
         "WebSocket"
-      ],
-      "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l"
         },
         {
-          "type": "secondary",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Device HTTPS API",
-      "description": "HTTPS API documentation for direct device-to-cloud communication.",
-      "icon": "book",
-      "shownTags": [
-        "HTTP",
-        "HTTPS",
-        "IFTTT",
-        "Zapier",
-        "WiFi",
-        "Ethernet",
-        "Cellular"
-      ],
-      "hiddenTags": [
+    "title": "Device HTTPS API",
+    "description": "HTTPS API documentation for direct device-to-cloud communication.",
+    "icon": "book",
+    "shownTags": ["HTTP", "HTTPS", "IFTTT", "Zapier", "WiFi", "Ethernet", "Cellular"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1054,22 +997,22 @@
         "Wi Fi",
         "REST",
         "HTTP"
-      ],
-      "link": "https://docs.blynk.io/en/blynk.cloud/device-https-api",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/blynk.cloud/device-https-api",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud/device-https-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud/device-https-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Blynk.Edgent Overview",
-      "description": "Dynamic authentication and OTA updates with Blynk.Edgent.",
-      "icon": "book",
-      "shownTags": [
+    "title": "Blynk.Edgent Overview",
+    "description": "Dynamic authentication and OTA updates with Blynk.Edgent.",
+    "icon": "book",
+    "shownTags": [
         "OTA",
         "Provisioning",
         "WiFi",
@@ -1077,8 +1020,8 @@
         "ESP8266",
         "Seeed Wio Terminal",
         "TI CC3220"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Espressif",
         "ESP32-C3",
         "ESP32-C6",
@@ -1112,27 +1055,27 @@
         "AI-Thinker",
         "Wi-Fi",
         "Wi Fi"
-      ],
-      "link": "https://docs.blynk.io/en/blynk.edgent/overview",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/blynk.edgent/overview",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4BlJLIkw7"
         },
         {
-          "type": "secondary",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4BlJLIkw7"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "Blynk.NCP Overview",
-      "description": "Offload connectivity and OTA logic using a Network Co-Processor.",
-      "icon": "book",
-      "shownTags": [
+    "title": "Blynk.NCP Overview",
+    "description": "Offload connectivity and OTA logic using a Network Co-Processor.",
+    "icon": "book",
+    "shownTags": [
         "OTA",
         "Provisioning",
         "Zephyr",
@@ -1151,8 +1094,8 @@
         "ESP8266",
         "NRF52",
         "Raspi"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Espressif",
         "ESP32-C3",
         "ESP32-C6",
@@ -1191,60 +1134,44 @@
         "Factory",
         "Commercial",
         "Raspi"
-      ],
-      "link": "https://docs.blynk.io/en/blynk.ncp/overview",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/blynk.ncp/overview",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.ncp/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.ncp/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "NCD Industrial Vibration Sensor",
-      "description": "Step-by-step setup for industrial vibration sensors from NCD.",
-      "icon": "book",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "NCD.io"
-      ],
-      "hiddenTags": [
-        "WebSocket",
-        "nodered",
-        "node.red",
-        "\"node red\""
-      ],
-      "link": "https://docs.blynk.io/en/hardware-guides/ncd-industrial-vibration-sensor",
-      "prio": 50,
-      "actions": [
+    "title": "NCD Industrial Vibration Sensor",
+    "description": "Step-by-step setup for industrial vibration sensors from NCD.",
+    "icon": "book",
+    "shownTags": ["MQTT", "Node-RED", "NCD.io"],
+    "hiddenTags": ["WebSocket", "nodered", "node.red", "node red"],
+    "link": "https://docs.blynk.io/en/hardware-guides/ncd-industrial-vibration-sensor",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/ncd-industrial-vibration-sensor"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4YmuyzYq4"
         },
         {
-          "type": "secondary",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4YmuyzYq4"
+        "type": "link",
+        "btnText": "Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/ncd-industrial-vibration-sensor"
         }
-      ]
+    ]
     },
     {
-      "title": "Node-RED",
-      "description": "Connect Node-RED flows to Blynk and control devices visually.",
-      "icon": "book",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "SBC"
-      ],
-      "hiddenTags": [
+    "title": "Node-RED",
+    "description": "Connect Node-RED flows to Blynk and control devices visually.",
+    "icon": "book",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "SBC"],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -1279,36 +1206,29 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\""
-      ],
-      "link": "https://docs.blynk.io/en/hardware-guides/node-red",
-      "prio": 50,
-      "actions": [
+        "node red"
+    ],
+    "link": "https://docs.blynk.io/en/hardware-guides/node-red",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4Bvbtdt3v"
         },
         {
-          "type": "secondary",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4Bvbtdt3v"
+        "type": "link",
+        "btnText": "Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Static Token Management",
-      "description": "Deploying Products With Static Tokens",
-      "icon": "book",
-      "shownTags": [
-        "MQTT",
-        "HTTP",
-        "HTTPS",
-        "Ethernet",
-        "Cellular",
-        "Satellite"
-      ],
-      "hiddenTags": [
+    "title": "Static Token Management",
+    "description": "Deploying Products With Static Tokens",
+    "icon": "book",
+    "shownTags": ["MQTT", "HTTP", "HTTPS", "Ethernet", "Cellular", "Satellite"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1328,27 +1248,28 @@
         "Production",
         "Factory",
         "Commercial"
-      ],
-      "link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4WLh2qA0y"
         },
         {
-          "type": "secondary",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4WLh2qA0y"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens"
         }
-      ]
+    ]
     },
     {
-      "title": "Platform API",
-      "description": "Perform CRUD operations on devices, users, organizations, automations, webhooks, tags, templates, and more.",
-      "icon": "book",
-      "shownTags": [
+    "title": "Platform API",
+    "description":
+        "Perform CRUD operations on devices, users, organizations, automations, webhooks, tags, templates, and more.",
+    "icon": "book",
+    "shownTags": [
         "OAuth2",
         "MQTT",
         "HTTP",
@@ -1359,8 +1280,8 @@
         "Bridge",
         "Gateway",
         "SBC"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -1395,22 +1316,23 @@
         "REST",
         "HTTP",
         "WebSocket"
-      ],
-      "link": "https://docs.blynk.io/en/blynk.cloud/platform-https-api",
-      "prio": 50,
-      "actions": [
+    ],
+    "link": "https://docs.blynk.io/en/blynk.cloud/platform-https-api",
+    "prio": 50,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud/platform-https-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud/platform-https-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Blink an LED with Arduino + Ethernet",
-      "description": "Remotely control the built-in LED on your Arduino Leonardo, UNO, or Mega board.",
-      "icon": "blueprint",
-      "shownTags": [
+    "title": "Blink an LED with Arduino + Ethernet",
+    "description":
+        "Remotely control the built-in LED on your Arduino Leonardo, UNO, or Mega board.",
+    "icon": "blueprint",
+    "shownTags": [
         "Arduino",
         "PlatformIO",
         "C++",
@@ -1420,34 +1342,25 @@
         "Arduino Mega",
         "Arduino Uno",
         "LED"
-      ],
-      "hiddenTags": [
-        "template",
-        "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL482vhoHlq",
-      "prio": 10,
-      "actions": [
+    ],
+    "hiddenTags": ["template", "blueprint"],
+    "link": "/dashboard/blueprints/Library/TMPL482vhoHlq",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL482vhoHlq"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL482vhoHlq"
         }
-      ]
+    ]
     },
     {
-      "title": "Blink an LED with ESP32 (with WiFi provisioning and OTA)",
-      "description": "This project is a quick start tutorial on connecting the ESP32 board to Blynk and controlling a built-in LED.",
-      "icon": "blueprint",
-      "shownTags": [
-        "FOTA",
-        "OTA",
-        "device provisioning",
-        "WiFi provisioning",
-        "WiFi",
-        "ESP32"
-      ],
-      "hiddenTags": [
+    "title": "Blink an LED with ESP32 (with WiFi provisioning and OTA)",
+    "description":
+        "This project is a quick start tutorial on connecting the ESP32 board to Blynk and controlling a built-in LED.",
+    "icon": "blueprint",
+    "shownTags": ["FOTA", "OTA", "device provisioning", "WiFi provisioning", "WiFi", "ESP32"],
+    "hiddenTags": [
         "Espressif",
         "ESP32-C3",
         "ESP32-C6",
@@ -1473,61 +1386,57 @@
         "Wi Fi",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4BlJLIkw7",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4BlJLIkw7",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4BlJLIkw7"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4BlJLIkw7"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "Soil Moisture Monitoring with Wio Terminal",
-      "description": "Monitor soil moisture & light levels for healthier plants with real-time recommendations.",
-      "icon": "blueprint",
-      "shownTags": [
+    "title": "Soil Moisture Monitoring with Wio Terminal",
+    "description":
+        "Monitor soil moisture & light levels for healthier plants with real-time recommendations.",
+    "icon": "blueprint",
+    "shownTags": [
         "FOTA",
         "OTA",
         "device provisioning",
         "WiFi provisioning",
         "WiFi",
         "Seeed Wio Terminal"
-      ],
-      "hiddenTags": [
-        "Wi-Fi",
-        "Wi Fi",
-        "sensor",
-        "template",
-        "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4uL0xae5N",
-      "prio": 10,
-      "actions": [
+    ],
+    "hiddenTags": ["Wi-Fi", "Wi Fi", "sensor", "template", "blueprint"],
+    "link": "/dashboard/blueprints/Library/TMPL4uL0xae5N",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4uL0xae5N"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4uL0xae5N"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "ESP32 Edgent for Cellular and WiFi",
-      "description": "Blynk.Edgent running on a dual-connectivity board. The LilyGo T-PCIe allows us to use WiFi and Cellular connectivity.",
-      "icon": "blueprint",
-      "shownTags": [
+    "title": "ESP32 Edgent for Cellular and WiFi",
+    "description":
+        "Blynk.Edgent running on a dual-connectivity board. The LilyGo T-PCIe allows us to use WiFi and Cellular connectivity.",
+    "icon": "blueprint",
+    "shownTags": [
         "FOTA",
         "OTA",
         "device provisioning",
@@ -1536,8 +1445,8 @@
         "Cellular",
         "Dual-Connectivity",
         "LilyGo® TTGO T-PCIe"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1558,35 +1467,29 @@
         "SIM7000",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4RCZ1Wy3i",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4RCZ1Wy3i",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4RCZ1Wy3i"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4RCZ1Wy3i"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "Weather Monitoring on ESP32 (WiFi provisioning & OTA)",
-      "description": "Weather Station to monitor temperature, humidity, pressure, altitude using Blynk.Edgent for WI-FI provisioning and OTA.",
-      "icon": "blueprint",
-      "shownTags": [
-        "FOTA",
-        "OTA",
-        "device provisioning",
-        "WiFi provisioning",
-        "WiFi",
-        "ESP32"
-      ],
-      "hiddenTags": [
+    "title": "Weather Monitoring on ESP32 (WiFi provisioning & OTA)",
+    "description":
+        "Weather Station to monitor temperature, humidity, pressure, altitude using Blynk.Edgent for WI-FI provisioning and OTA.",
+    "icon": "blueprint",
+    "shownTags": ["FOTA", "OTA", "device provisioning", "WiFi provisioning", "WiFi", "ESP32"],
+    "hiddenTags": [
         "Espressif",
         "ESP32-C3",
         "ESP32-C6",
@@ -1613,35 +1516,29 @@
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4j57WtmD7",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4j57WtmD7",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4j57WtmD7"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4j57WtmD7"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
-      ]
+    ]
     },
     {
-      "title": "Weather Monitoring with ESP32 (with static tokens)",
-      "description": "Effortlessly build a comprehensive Weather Station. Monitor temperature, humidity, atmospheric pressure, and altitude.",
-      "icon": "blueprint",
-      "shownTags": [
-        "Arduino",
-        "PlatformIO",
-        "C++",
-        "CPP",
-        "WiFi",
-        "ESP32"
-      ],
-      "hiddenTags": [
+    "title": "Weather Monitoring with ESP32 (with static tokens)",
+    "description":
+        "Effortlessly build a comprehensive Weather Station. Monitor temperature, humidity, atmospheric pressure, and altitude.",
+    "icon": "blueprint",
+    "shownTags": ["Arduino", "PlatformIO", "C++", "CPP", "WiFi", "ESP32"],
+    "hiddenTags": [
         "Espressif",
         "ESP32-C3",
         "ESP32-C6",
@@ -1668,35 +1565,29 @@
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4WLh2qA0y",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4WLh2qA0y",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4WLh2qA0y"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4WLh2qA0y"
         },
         {
-          "type": "secondary",
-          "btnText": "Static token management",
-          "link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens"
+        "type": "link",
+        "btnText": "Static token management",
+        "link": "https://docs.blynk.io/en/commercial-use/deploying-products-with-static-authtokens"
         }
-      ]
+    ]
     },
     {
-      "title": "Connect a Particle device",
-      "description": "This blueprint will help you set up bi-directional communication with any Particle hardware.",
-      "icon": "blueprint",
-      "shownTags": [
-        "HTTP API",
-        "webhook",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "Particle"
-      ],
-      "hiddenTags": [
+    "title": "Connect a Particle device",
+    "description":
+        "This blueprint will help you set up bi-directional communication with any Particle hardware.",
+    "icon": "blueprint",
+    "shownTags": ["HTTP API", "webhook", "WiFi", "Ethernet", "Cellular", "Particle"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1721,35 +1612,29 @@
         "Wi Fi",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4ej7--Xu_",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4ej7--Xu_",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4ej7--Xu_"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4ej7--Xu_"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/hardware-guides/particle"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/hardware-guides/particle"
         }
-      ]
+    ]
     },
     {
-      "title": "Asset Tracking with Particle Boron",
-      "description": "Track the moving device and monitor its speed on web and mobile dashboards via Particle Webhooks & Blynk HTTP API.",
-      "icon": "blueprint",
-      "shownTags": [
-        "HTTP API",
-        "GPS",
-        "webhook",
-        "Cellular",
-        "FeatherWing",
-        "Particle Boron"
-      ],
-      "hiddenTags": [
+    "title": "Asset Tracking with Particle Boron",
+    "description":
+        "Track the moving device and monitor its speed on web and mobile dashboards via Particle Webhooks & Blynk HTTP API.",
+    "icon": "blueprint",
+    "shownTags": ["HTTP API", "GPS", "webhook", "Cellular", "FeatherWing", "Particle Boron"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1772,91 +1657,77 @@
         "Tracker One",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL432pNNbZe",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL432pNNbZe",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL432pNNbZe"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL432pNNbZe"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/hardware-guides/particle"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/hardware-guides/particle"
         }
-      ]
+    ]
     },
     {
-      "title": "Iridium 9704 Launch Pad",
-      "description": "Collect data from anywhere on the planet, sending it directly to the palm of your hand from your Iridium 9704 Launch Pad. ",
-      "icon": "blueprint",
-      "shownTags": [
+    "title": "Iridium 9704 Launch Pad",
+    "description":
+        "Collect data from anywhere on the planet, sending it directly to the palm of your hand from your Iridium 9704 Launch Pad. ",
+    "icon": "blueprint",
+    "shownTags": [
         "GNSS",
         "HTTPs API",
         "Satellite",
         "Iridium 9704 Launch Pad",
         "Iridium",
         "Iridium 9704"
-      ],
-      "hiddenTags": [
-        "REST",
-        "HTTP",
-        "template",
-        "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4wL7mp9eA",
-      "prio": 10,
-      "actions": [
+    ],
+    "hiddenTags": ["REST", "HTTP", "template", "blueprint"],
+    "link": "/dashboard/blueprints/Library/TMPL4wL7mp9eA",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4wL7mp9eA"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4wL7mp9eA"
         }
-      ]
+    ]
     },
     {
-      "title": "Iridium 9704 Launch Pad Premium",
-      "description": "This blueprint will allow you to collect data from anywhere on the planet, effortlessly sending it directly to the palm of your hand from you Iridium 9704 Launch Pad. ",
-      "icon": "blueprint",
-      "shownTags": [
+    "title": "Iridium 9704 Launch Pad Premium",
+    "description":
+        "This blueprint will allow you to collect data from anywhere on the planet, effortlessly sending it directly to the palm of your hand from you Iridium 9704 Launch Pad. ",
+    "icon": "blueprint",
+    "shownTags": [
         "GNSS",
         "HTTPs API",
         "Satellite",
         "Iridium 9704 Launch Pad",
         "Iridium",
         "Iridium 9704"
-      ],
-      "hiddenTags": [
-        "REST",
-        "HTTP",
-        "template",
-        "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL48KJfyGe7",
-      "prio": 10,
-      "actions": [
+    ],
+    "hiddenTags": ["REST", "HTTP", "template", "blueprint"],
+    "link": "/dashboard/blueprints/Library/TMPL48KJfyGe7",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL48KJfyGe7"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL48KJfyGe7"
         }
-      ]
+    ]
     },
     {
-      "title": "Basic Environmental Air Quality Solution",
-      "description": "A simplified way to get your sensor data streaming to the Blynk cloud and pre-built dashboards for monitoring and alerts.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Basic Environmental Air Quality Solution",
+    "description":
+        "A simplified way to get your sensor data streaming to the Blynk cloud and pre-built dashboards for monitoring and alerts.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1874,39 +1745,33 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4Bvbtdt3v",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4Bvbtdt3v",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4Bvbtdt3v"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4Bvbtdt3v"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Enterprise Grade Environmental Air Quality Solution",
-      "description": "Enables bulk deployments. Easily stream data to the cloud and monitor it via pre-built mobile and web dashboards.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Enterprise Grade Environmental Air Quality Solution",
+    "description":
+        "Enables bulk deployments. Easily stream data to the cloud and monitor it via pre-built mobile and web dashboards.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1924,39 +1789,33 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4Rayq6G_B",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4Rayq6G_B",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4Rayq6G_B"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4Rayq6G_B"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Enterprise IIoT Gateway Solution",
-      "description": "Quickly set up gateway, configure Ethernet, Wi-Fi, and LTE connectivity, and integrate it with Blynk Cloud and Node-RED.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Enterprise IIoT Gateway Solution",
+    "description":
+        "Quickly set up gateway, configure Ethernet, Wi-Fi, and LTE connectivity, and integrate it with Blynk Cloud and Node-RED.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -1974,38 +1833,32 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL40YtWwLlq",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL40YtWwLlq",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL40YtWwLlq"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL40YtWwLlq"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Basic Vibration Sensor Solution",
-      "description": "Quickly get your sensor data streaming to the cloud and monitor it from ready-made mobile and web dashboards.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Basic Vibration Sensor Solution",
+    "description":
+        "Quickly get your sensor data streaming to the cloud and monitor it from ready-made mobile and web dashboards.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -2023,39 +1876,33 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4YmuyzYq4",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4YmuyzYq4",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4YmuyzYq4"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4YmuyzYq4"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Enterprise Grade Vibration Monitoring Solution",
-      "description": "A quick-start project to get your sensor data streaming to the cloud and monitor it from ready-made mobile and web dashboards.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Enterprise Grade Vibration Monitoring Solution",
+    "description":
+        "A quick-start project to get your sensor data streaming to the cloud and monitor it from ready-made mobile and web dashboards.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -2073,39 +1920,33 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4HAlucI1g",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4HAlucI1g",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4HAlucI1g"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4HAlucI1g"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Wireless Contact Closure Solution",
-      "description": "A quick-start solution to stream your sensor data to the Blynk cloud, with pre-built mobile and web dashboards for real-time monitoring and alerts.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Wireless Contact Closure Solution",
+    "description":
+        "A quick-start solution to stream your sensor data to the Blynk cloud, with pre-built mobile and web dashboards for real-time monitoring and alerts.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -2123,39 +1964,33 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4Lpysk_Je",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4Lpysk_Je",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4Lpysk_Je"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4Lpysk_Je"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Industrial Grade AC Current Monitoring Solution",
-      "description": "Production-ready solution for real-time sensor data transmission to the gateway and instant streaming to pre-built mobile and web dashboards for monitoring.",
-      "icon": "blueprint",
-      "shownTags": [
-        "MQTT",
-        "Node-RED",
-        "WiFi",
-        "Ethernet",
-        "Cellular",
-        "NCD.io"
-      ],
-      "hiddenTags": [
+    "title": "Industrial Grade AC Current Monitoring Solution",
+    "description":
+        "Production-ready solution for real-time sensor data transmission to the gateway and instant streaming to pre-built mobile and web dashboards for monitoring.",
+    "icon": "blueprint",
+    "shownTags": ["MQTT", "Node-RED", "WiFi", "Ethernet", "Cellular", "NCD.io"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -2173,36 +2008,33 @@
         "WebSocket",
         "nodered",
         "node.red",
-        "\"node red\"",
+        "node red",
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4ofexjN0-",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4ofexjN0-",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4ofexjN0-"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4ofexjN0-"
         },
         {
-          "type": "secondary",
-          "btnText": "Node-RED Guide",
-          "link": "https://docs.blynk.io/en/hardware-guides/node-red"
+        "type": "link",
+        "btnText": "Node-RED Guide",
+        "link": "https://docs.blynk.io/en/hardware-guides/node-red"
         }
-      ]
+    ]
     },
     {
-      "title": "Battery-Free Air Quality Solution for CO2, Temperature, and Humidity",
-      "description": "A ready-to-use setup for monitoring air quality and comfort — with dashboards, alerts, and LoRaWAN connectivity.",
-      "icon": "blueprint",
-      "shownTags": [
-        "TTI",
-        "LoRaWAN",
-        "Miromico"
-      ],
-      "hiddenTags": [
+    "title": "Battery-Free Air Quality Solution for CO2, Temperature, and Humidity",
+    "description":
+        "A ready-to-use setup for monitoring air quality and comfort — with dashboards, alerts, and LoRaWAN connectivity.",
+    "icon": "blueprint",
+    "shownTags": ["TTI", "LoRaWAN", "Miromico"],
+    "hiddenTags": [
         "The Things Stack",
         "The Things Network",
         "The Things Industries",
@@ -2211,27 +2043,24 @@
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4N6f1Lc0o",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4N6f1Lc0o",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4N6f1Lc0o"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4N6f1Lc0o"
         }
-      ]
+    ]
     },
     {
-      "title": "Production Ready Sound Level Monitoring Solution",
-      "description": "Enables bulk deployments. Industrial solution with LoRaWAN network setup, key acoustic metrics, pre-built dashboards for monitoring and alerts.",
-      "icon": "blueprint",
-      "shownTags": [
-        "TTI",
-        "LoRaWAN",
-        "Milesight"
-      ],
-      "hiddenTags": [
+    "title": "Production Ready Sound Level Monitoring Solution",
+    "description":
+        "Enables bulk deployments. Industrial solution with LoRaWAN network setup, key acoustic metrics, pre-built dashboards for monitoring and alerts.",
+    "icon": "blueprint",
+    "shownTags": ["TTI", "LoRaWAN", "Milesight"],
+    "hiddenTags": [
         "The Things Stack",
         "The Things Network",
         "The Things Industries",
@@ -2240,27 +2069,24 @@
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4ibBvqKR1",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4ibBvqKR1",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4ibBvqKR1"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4ibBvqKR1"
         }
-      ]
+    ]
     },
     {
-      "title": "Water Leak Detection Solution",
-      "description": "A quick-start project to enable water leak detection in various environments, providing real-time alerts to prevent damage.",
-      "icon": "blueprint",
-      "shownTags": [
-        "TTI",
-        "LoRaWAN",
-        "Milesight"
-      ],
-      "hiddenTags": [
+    "title": "Water Leak Detection Solution",
+    "description":
+        "A quick-start project to enable water leak detection in various environments, providing real-time alerts to prevent damage.",
+    "icon": "blueprint",
+    "shownTags": ["TTI", "LoRaWAN", "Milesight"],
+    "hiddenTags": [
         "The Things Stack",
         "The Things Network",
         "The Things Industries",
@@ -2269,27 +2095,24 @@
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4r-HEzHpc",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4r-HEzHpc",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4r-HEzHpc"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4r-HEzHpc"
         }
-      ]
+    ]
     },
     {
-      "title": "Advanced Weather Monitoring Solution",
-      "description": "Quickly connect your sensor to the cloud and monitor essential environmental data — from air temperature and humidity to wind, precipitation, solar radiation, UV index, and more. ",
-      "icon": "blueprint",
-      "shownTags": [
-        "TTI",
-        "LoRaWAN",
-        "Seeed"
-      ],
-      "hiddenTags": [
+    "title": "Advanced Weather Monitoring Solution",
+    "description":
+        "Quickly connect your sensor to the cloud and monitor essential environmental data — from air temperature and humidity to wind, precipitation, solar radiation, UV index, and more. ",
+    "icon": "blueprint",
+    "shownTags": ["TTI", "LoRaWAN", "Seeed"],
+    "hiddenTags": [
         "The Things Stack",
         "The Things Network",
         "The Things Industries",
@@ -2298,29 +2121,23 @@
         "sensor",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4zsMOp21D",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4zsMOp21D",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4zsMOp21D"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4zsMOp21D"
         }
-      ]
+    ]
     },
     {
-      "title": "Build an App for Your OpenWrt Router",
-      "description": "Create an app for the popular WiFi router.",
-      "icon": "blueprint",
-      "shownTags": [
-        "Lua",
-        "WiFi",
-        "Ethernet",
-        "OpenWrt",
-        "SBC"
-      ],
-      "hiddenTags": [
+    "title": "Build an App for Your OpenWrt Router",
+    "description": "Create an app for the popular WiFi router.",
+    "icon": "blueprint",
+    "shownTags": ["Lua", "WiFi", "Ethernet", "OpenWrt", "SBC"],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -2342,22 +2159,22 @@
         "Wi Fi",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4u3CRY3Vj",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4u3CRY3Vj",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4u3CRY3Vj"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4u3CRY3Vj"
         }
-      ]
+    ]
     },
     {
-      "title": "MQTT Air Cooler/Heater Demo",
-      "description": "Connect, control, and monitor MQTT devices.",
-      "icon": "blueprint",
-      "shownTags": [
+    "title": "MQTT Air Cooler/Heater Demo",
+    "description": "Connect, control, and monitor MQTT devices.",
+    "icon": "blueprint",
+    "shownTags": [
         "Python",
         "JavaScript",
         "Lua",
@@ -2377,8 +2194,8 @@
         "UNO R4 WiFi",
         "Seeed Wio Terminal",
         "ESP32"
-      ],
-      "hiddenTags": [
+    ],
+    "hiddenTags": [
         "Single Board Computers",
         "Raspberry Pi",
         "BeagleBone Black",
@@ -2445,34 +2262,29 @@
         "template",
         "blueprint",
         "Raspi"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4zGiS1A7l"
         },
         {
-          "type": "secondary",
-          "btnText": "Documentation",
-          "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
+        "type": "link",
+        "btnText": "Documentation",
+        "link": "https://docs.blynk.io/en/blynk.cloud-mqtt-api/device-mqtt-api"
         }
-      ]
+    ]
     },
     {
-      "title": "Blues - Multi-Connectivity IoT Starter",
-      "description": "Universal monitor with Blues Notecard: tracks temp, pressure, battery, door alerts&signal — unified config for any radio",
-      "icon": "blueprint",
-      "shownTags": [
-        "Cloud-to-cloud",
-        "WiFi",
-        "LoRaWAN",
-        "Cellular",
-        "Blues"
-      ],
-      "hiddenTags": [
+    "title": "Blues - Multi-Connectivity IoT Starter",
+    "description":
+        "Universal monitor with Blues Notecard: tracks temp, pressure, battery, door alerts&signal — unified config for any radio",
+    "icon": "blueprint",
+    "shownTags": ["Cloud-to-cloud", "WiFi", "LoRaWAN", "Cellular", "Blues"],
+    "hiddenTags": [
         "LTE",
         "GSM",
         "HSDPA",
@@ -2489,16 +2301,17 @@
         "Wi Fi",
         "template",
         "blueprint"
-      ],
-      "link": "/dashboard/blueprints/Library/TMPL4irZ1F2AA",
-      "prio": 10,
-      "actions": [
+    ],
+    "link": "/dashboard/blueprints/Library/TMPL4irZ1F2AA",
+    "prio": 10,
+    "actions": [
         {
-          "type": "link",
-          "btnText": "Blueprint",
-          "link": "/dashboard/blueprints/Library/TMPL4irZ1F2AA"
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4irZ1F2AA"
         }
-      ]
+    ]
     }
-  ]
+],
+"featuredTags": ["ESP32", "Arduino", "Python", "LoRaWAN", "Satellite", "Node-RED", "OTA"]
 }
