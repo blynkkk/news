@@ -76,7 +76,7 @@
     "prio": 20,
     "actions": [
         {
-        "type": "link",
+        "type": "secondary",
         "btnText": "Start now",
         "link": ""
         }
