@@ -1,5 +1,5 @@
 {
-  "introVideoUrl": "https://youtu.be/-bZp36zWQ1Y?si=rlA3Efcz_2jDFE3N",
+  "introVideoUrl": "https://www.youtube.com/embed/-bZp36zWQ1Y?si=zPgYhlkYZEV_EWQS",
   "featuresCarousel": [
     {
       "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device-gallery.png",
@@ -226,7 +226,7 @@
       "iconType": "circle",
       "label": "Intro to Blynk",
       "children": {
-        "video": "https://youtu.be/-bZp36zWQ1Y?si=rlA3Efcz_2jDFE3N",
+        "video": "https://www.youtube.com/embed/-bZp36zWQ1Y?si=zPgYhlkYZEV_EWQS",
         "paragraphs": [
           "Watch our platform video to quickly understand how Blynk empowers your IoT projects",
           "In just a few minutes you’ll see how easy it is to build, connect and manage your devices from anywhere"
