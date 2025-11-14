@@ -1288,47 +1288,6 @@
       "link": "/dashboard/blueprints/Library/TMPL482vhoHlq",
       "prio": 10
     },
-
-
-
-
-    
-  ]
-    },
-    {
-    "title": "Kit XIDE IoT",
-    "description": "Explore all features of XIDE IoT starter kit, a flexible development platform for rapid prototyping of IoT Applications.",
-    "icon": "blueprint",
-    "shownTags": [
-        "ESP32",
-        "WiFi",
-        "WiFi Provisioning",
-        "Provisioning",
-        "PlatformIO",
-        "LED",
-        "Device Provisioning"
-    ],
-    "hiddenTags": [
-        "XIDE",
-        "Temperature",
-        "Humidity",
-        "Light",
-        "Switch",
-        "Output",
-        "RGB",
-        "XIDE IoT",
-        "XIDE Kit",
-        "Kit"
-    ],
-    "link": "/dashboard/blueprints/Library/TMPL41W_nD31w",
-    "prio": 10
-    },
-
-
-
-
-
-
     
     {
       "title": "Blink an LED with ESP32 (with WiFi provisioning and OTA)",
