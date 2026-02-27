@@ -1,0 +1,300 @@
+{
+  "introVideoUrl": "https://www.youtube.com/embed/-bZp36zWQ1Y?rel=0",
+  "featuresCarousel": [
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/blueprints.png",
+      "title": "Create your app in minutes with Blueprints",
+      "description": "Use a pre-built template with all the essentials to get your device up and running instantly.",
+      "btnText": "View Blueprints",
+      "link": "/dashboard/blueprints/Library"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/data-visualization-snapshot.png",
+      "title": "Customize your app's look and feel",
+      "description": "Skip the time-consuming app review process and customize your app with no coding required.",
+      "btnText": "Learn More",
+      "link": "https://docs.blynk.io/en/blynk.apps/overview"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
+      "title": "No-code automations",
+      "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
+      "btnText": "Try Now",
+      "link": "/dashboard/automations"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-6.png",
+      "title": "Events, alerts and notifications",
+      "description": "Track important events, receive real-time alerts, and configure notifications for your devices.",
+      "btnText": "Learn More",
+      "link": "https://docs.blynk.io/en/blynk.console/templates/events/events-notification-settings"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/datastreams.png",
+      "title": "Connect and manage data with Datastreams",
+      "description": "Stream real-time values and ensure seamless communication between hardware and the Blynk platform.",
+      "btnText": "Watch",
+      "link": "https://www.youtube.com/embed/eHC9xn9YUMg?rel=0"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-1.png",
+      "title": "Bring your team on board",
+      "description": "Easily add members to your project and start working together in real-time.",
+      "btnText": "Invite",
+      "link": "/dashboard/settings/users"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-2.png",
+      "title": "Over-The-Air updates with Blynk.Air",
+      "description": "Track update progress, manage rollouts, and ensure your fleet stays up to date—all without manual intervention.",
+      "btnText": "Try Now",
+      "link": "/dashboard/shipments/all"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/white-label.png",
+      "title": "Launch your white-label app and go live with your solution",
+      "description": "Our team will guide you through every step of the publishing process for a smooth launch on the App Store and Google Play.",
+      "btnText": "Get Started with a Demo",
+      "link": "https://blynk.io/console-form?refpage=Publishing%20a%20Branded%20App"
+    }
+  ],
+  "dashboardCards": [
+    {
+      "icon": "cube",
+      "title": "Activate your devices in Blynk",
+      "description": "Connect via Blynk.Edgent, Blynk.NCP, MQTT, HTTPs API, LoRaWAN, the Blynk Library, or import from third-party cloud services.",
+      "actions": [
+        {
+          "btnText": "Connect a Device",
+          "link": "/global/devices/create-new-device"
+        },
+        {
+          "btnText": "View Compatible Devices",
+          "link": "https://docs.blynk.io/en/getting-started/supported-boards"
+        }
+      ]
+    },
+    {
+      "icon": "sun2",
+      "title": "Need help? Ask the AI assistant",
+      "description": "Blynk's AI assistant can help you set up devices, configure datastreams, build dashboards, and troubleshoot issues. Click the AI button in the top right corner to get started.",
+      "actions": [
+        {
+          "btnText": "Learn About AI Assistant",
+          "link": "https://docs.blynk.io/en/blynk.console/ai-assistant"
+        }
+      ]
+    },
+    {
+      "icon": "template",
+      "title": "Device Templates",
+      "description": "With a template, you define key parameters, data streams, and UI elements once—then apply them across multiple devices instantly.",
+      "actions": [
+        {
+          "btnText": "Create A Template",
+          "link": "/dashboard/templates"
+        }
+      ]
+    },
+    {
+      "icon": "chart4",
+      "title": "Dashboards",
+      "description": "Dashboards let you track multiple devices and data points in real time. Create full operational views using charts, controls, and status indicators.",
+      "actions": [
+        {
+          "btnText": "Go to Dashboards",
+          "link": "/dashboard/dashboards/"
+        },
+        {
+          "btnText": "Dashboards Guide",
+          "link": "https://docs.blynk.io/en/blynk.console/dashboards"
+        }
+      ]
+    },
+    {
+      "icon": "sun2",
+      "title": "Automations",
+      "description": "Use schedules, device states, or events to trigger automated actions across your devices.",
+      "actions": [
+        {
+          "btnText": "Add Automation",
+          "link": "/dashboard/automations"
+        }
+      ]
+    },
+    {
+      "icon": "devices",
+      "title": "Is your project taking off?",
+      "description": "Messages make your IoT project go round. As your project grows, you'll send more messages between devices and the platform. Here's how to make the most of your message allowance.",
+      "actions": [
+        {
+          "btnText": "Understand Message Usage",
+          "link": "https://docs.blynk.io/en/message-usage"
+        }
+      ]
+    },
+    {
+      "icon": "enter2",
+      "title": "Integrations",
+      "description": "Connect Blynk to external platforms like AWS, The Things Stack, and others to onboard devices and enable two-way data exchange.",
+      "actions": [
+        {
+          "btnText": "Set Up An Integration",
+          "link": "/dashboard/integrations"
+        }
+      ]
+    },
+    {
+      "icon": "datastreams",
+      "title": "Datastreams",
+      "description": "Datastreams are the backbone of device communication in Blynk, acting as channels that transmit data between your hardware and the platform.",
+      "actions": [
+        {
+          "btnText": "Learn More",
+          "link": "https://docs.blynk.io/en/blynk.console/templates/datastreams"
+        }
+      ]
+    },
+    {
+      "icon": "webhook",
+      "title": "Webhooks",
+      "description": "Trigger external actions when specific device or template events occur—perfect for notifications, logging, or custom workflows.",
+      "actions": [
+        {
+          "btnText": "Explore Webhooks",
+          "link": "https://docs.blynk.io/en/blynk.console/settings/developers/webhooks"
+        },
+        {
+          "btnText": "Create a Webhook",
+          "link": "/dashboard/webhooks"
+        }
+      ]
+    },
+    {
+      "icon": "users",
+      "title": "Organizations / Multi-Tenancy",
+      "description": "Use Organizations to manage access and device visibility for clients, partners, or internal teams. Keep projects separate, control permissions, and scale with ease.",
+      "actions": [
+        {
+          "btnText": "How Organizations Work",
+          "link": "https://docs.blynk.io/en/concepts/organizations"
+        }
+      ]
+    }
+  ],
+  "resourcesLinks": [
+    {
+      "icon": "file-empty",
+      "title": "Documentation",
+      "description": "Your go-to guides, how-to's and best practices for everything Blynk.",
+      "link": "https://docs.blynk.io/en"
+    },
+    {
+      "icon": "bullhorn",
+      "title": "Community",
+      "description": "A space where developers, makers, and IoT enthusiasts come together.",
+      "link": "https://community.blynk.cc"
+    },
+    {
+      "icon": "briefcase",
+      "title": "Blynk for Enterprise",
+      "description": "Bring your IoT solution to market at low-code speed.",
+      "link": "https://blynk.io/console-form?refpage=Custom%20Development"
+    }
+  ],
+  "sidebarProgressSteps": [
+    {
+      "iconType": "circle",
+      "label": "Intro to Blynk",
+      "children": {
+        "video": "https://www.youtube.com/embed/-bZp36zWQ1Y?rel=0",
+        "paragraphs": [
+          "Watch our platform video to quickly understand how Blynk empowers your IoT projects",
+          "In just a few minutes you'll see how easy it is to build, connect and manage your devices from anywhere"
+        ]
+      }
+    },
+    {
+      "iconType": "circle",
+      "label": "Add template or blueprint",
+      "children": {
+        "video": "https://www.youtube.com/embed/S3vv2R4_o4I?rel=0",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/add-template.png",
+        "paragraphs": [
+          "Learn how to create a custom device template or use a ready-made blueprint"
+        ],
+        "links": [
+          {
+            "label": "Use a blueprint",
+            "link": "/blueprints/Library",
+            "iconType": "arrow-right"
+          },
+          {
+            "label": "Create template",
+            "link": "/templates",
+            "iconType": "arrow-right"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Connect first device",
+      "children": {
+        "video": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device-step.png",
+        "paragraphs": [
+          "Easily connect your device to Blynk via Wi-Fi, cellular, Ethernet or LoRaWAN"
+        ],
+        "links": [
+          {
+            "label": "Connect your device",
+            "link": "/global/devices/create-new-device",
+            "iconType": "arrow-right"
+          }
+        ]
+      }
+    },
+    {
+      "iconType": "circle",
+      "label": "Build a dashboard",
+      "children": {
+        "video": "https://www.youtube.com/embed/eHC9xn9YUMg?rel=0",
+        "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/visualize-data.png",
+        "paragraphs": [
+          "Build a dashboard to see your data in real time"
+        ],
+        "links": [
+          {
+            "label": "Add a datastream to your template",
+            "link": "/templates",
+            "iconType": "arrow-right"
+          },
+          {
+            "label": "Build a device dashboard in your template",
+            "link": "/templates",
+            "iconType": "arrow-right"
+          }
+        ]
+      }
+    },
+    {
+      "iconType": "circle",
+      "label": "Download Blynk mobile app",
+      "children": {
+        "QRCodes": [
+          {
+            "src": "https://play.google.com/store/apps/details?id=cloud.blynk&utm_source=fmx&utm_campaign=steps&utm_content=step5&pli=1",
+            "caption": "Android"
+          },
+          {
+            "src": "https://apps.apple.com/ua/app/blynk-iot/id1559317868",
+            "caption": "iOS"
+          }
+        ],
+        "paragraphs": [
+          "You can build your app UI directly on your mobile phone"
+        ]
+      }
+    }
+  ]
+}
