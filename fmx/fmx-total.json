@@ -66,21 +66,6 @@
     }
   ],
   "dashboardCards": [
-    {
-      "icon": "key",
-      "title": "What is Authentication Token?",
-      "description": "Devices need an Auth Token to connect to Blynk. Copy it manually from Developer Tools section on device page, or skip this step entirely with Blynk.Edgent.",
-      "actions": [
-        {
-          "btnText": "How to access Auth Token",
-          "link": "https://docs.blynk.io/en/getting-started/activating-devices/manual-device-activation#getting-auth-token"
-        },
-        {
-          "btnText": "Skip with Blynk.Edgent",
-          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
-        }
-      ]
-    },
         {
       "icon": "cube",
       "title": "Activate your devices in Blynk",
@@ -93,6 +78,21 @@
         {
           "btnText": "View Compatible Devices",
           "link": "https://docs.blynk.io/en/getting-started/supported-boards"
+        }
+      ]
+    },
+        {
+      "icon": "key",
+      "title": "What is Authentication Token?",
+      "description": "Devices need an Auth Token to connect to Blynk. Copy it manually from Developer Tools section on device page, or skip this step entirely with Blynk.Edgent.",
+      "actions": [
+        {
+          "btnText": "How to access Auth Token",
+          "link": "https://docs.blynk.io/en/getting-started/activating-devices/manual-device-activation#getting-auth-token"
+        },
+        {
+          "btnText": "Skip with Blynk.Edgent",
+          "link": "https://docs.blynk.io/en/blynk.edgent/overview"
         }
       ]
     },
