@@ -2,19 +2,18 @@
   "introVideoUrl": "https://www.youtube.com/embed/-bZp36zWQ1Y?rel=0",
   "featuresCarousel": [
     {
-      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
-      "title": "No-code automations",
-      "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
-      "btnText": "Try Now",
-      "link": "/dashboard/automations"
-    },
-    
-    {
       "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/connect-device-gallery.png",
       "title": "How to connect a device to Blynk",
       "description": "Learn how to set up your device with easy, step-by-step guides—compatible with any hardware and connectivity options.",
       "btnText": "Watch",
       "link": "https://www.youtube.com/embed/81QxLLhxs6I?rel=0"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/automations.png",
+      "title": "No-code automations",
+      "description": "Automate device actions, alerts, and conditions without writing extra code—across your IoT ecosystem.",
+      "btnText": "Try Now",
+      "link": "/dashboard/automations"
     },
     {
       "image": "https://raw.githubusercontent.com/blynkkk/news/refs/heads/main/fmx/images/Data%20Visualization%20Snapshot-6.png",
