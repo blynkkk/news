@@ -67,21 +67,6 @@
   ],
   "dashboardCards": [
     {
-      "icon": "cube",
-      "title": "Activate your devices in Blynk",
-      "description": "Connect via Blynk.Edgent, Blynk.NCP, MQTT, HTTPs API, LoRaWAN, the Blynk Library, or import from third-party cloud services.",
-      "actions": [
-        {
-          "btnText": "Connect a Device",
-          "link": "/global/devices/create-new-device"
-        },
-        {
-          "btnText": "View Compatible Devices",
-          "link": "https://docs.blynk.io/en/getting-started/supported-boards"
-        }
-      ]
-    },
-    {
       "icon": "key",
       "title": "What is Authentication Token?",
       "description": "Devices need an Auth Token to connect to Blynk. Copy it manually from Developer Tools section on device page, or skip this step entirely with Blynk.Edgent.",
@@ -93,6 +78,21 @@
         {
           "btnText": "Skip with Blynk.Edgent",
           "link": "https://docs.blynk.io/en/blynk.edgent/overview"
+        }
+      ]
+    },
+        {
+      "icon": "cube",
+      "title": "Activate your devices in Blynk",
+      "description": "Connect via Blynk.Edgent, Blynk.NCP, MQTT, HTTPs API, LoRaWAN, the Blynk Library, or import from third-party cloud services.",
+      "actions": [
+        {
+          "btnText": "Connect a Device",
+          "link": "/global/devices/create-new-device"
+        },
+        {
+          "btnText": "View Compatible Devices",
+          "link": "https://docs.blynk.io/en/getting-started/supported-boards"
         }
       ]
     },
