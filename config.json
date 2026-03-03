@@ -1,6 +1,11 @@
 {
   "list": [
-
+    {
+      "path": "/list/mcp.md",
+      "date": "3.3.2025",
+      "link": "Learn more",
+      "URL": "https://www.blynk.io/blog/blynk-mcp-server-manage-iot-platform-from-ai-coding-tools?utm_source=console&utm_medium=platform&utm_campaign=mcp"
+    },
     {
       "path": "/list/aiassistant.md",
       "date": "2.25.2025",
