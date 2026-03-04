@@ -80,7 +80,7 @@
       "description": "Blynk's AI assistant can help you set up devices, configure datastreams, build dashboards, and troubleshoot issues. Click the AI button in the top right corner to get started.",
       "actions": [
         {
-          "btnText": "Learn About AI Assistant",
+          "btnText": "Ask AI",
           "link": "https://docs.blynk.io/en/blynk.console/ai-assistant"
         }
       ]
