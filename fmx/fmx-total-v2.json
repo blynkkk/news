@@ -81,7 +81,7 @@
       "actions": [
         {
           "btnText": "Ask AI",
-          "link": "https://docs.blynk.io/en/blynk.console/ai-assistant"
+          "link": "/ask-ai"
         }
       ]
     },
