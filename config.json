@@ -1,20 +1,26 @@
 {
   "list": [
     {
+      "path": "/list/esp32.md",
+      "date": "4.30.2026",
+      "link": "Read More",
+      "URL": "https://www.blynk.io/blog/which-esp32-for-your-iot-product-a-variant-by-variant-guide?utm_source=console&utm_medium=platform&utm_campaign=esp32"
+    },
+    {
       "path": "/list/espidfss.md",
-      "date": "3.20.2025",
+      "date": "3.20.2026",
       "link": "Explore",
       "URL": "https://www.blynk.io/blog/blynk-edgent-native-esp-idf-component?utm_source=console&utm_medium=platform&utm_campaign=esp-idf"
     },
     {
       "path": "/list/mcp.md",
-      "date": "3.3.2025",
+      "date": "3.3.2026",
       "link": "Learn more",
       "URL": "https://www.blynk.io/blog/blynk-mcp-server-manage-iot-platform-from-ai-coding-tools?utm_source=console&utm_medium=platform&utm_campaign=mcp"
     },
     {
       "path": "/list/aiassistant.md",
-      "date": "2.25.2025",
+      "date": "2.25.2026",
       "link": "Learn more",
       "URL": "https://www.blynk.io/blog/blynk-ai-assistant-describe-what-you-need-the-platform-builds-it?utm_source=console&utm_medium=platform&utm_campaign=aiassistant"
     },
