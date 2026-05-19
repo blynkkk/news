@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/dt.md",
+      "date": "5.19.2026",
+      "link": "Read More",
+      "URL": "https://www.blynk.io/blog/blynk-deutsche-telekom-satellite-and-cellular-iot-one-platform?utm_source=console&utm_medium=platform&utm_campaign=dt"
+    },
+    {
       "path": "/list/esp32.md",
       "date": "4.30.2026",
       "link": "Read More",
