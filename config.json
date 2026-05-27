@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/nordic.md",
+      "date": "5.27.2026",
+      "link": "Read the Guide",
+      "URL": "https://www.blynk.io/blog/nordic-nrf9151-now-works-with-blynk-over-lte-m?utm_source=console&utm_medium=platform&utm_campaign=nordic"
+    },
+    {
       "path": "/list/dt.md",
       "date": "5.19.2026",
       "link": "Read More",
