@@ -1762,6 +1762,59 @@
         }
     ]
     },
+
+    {
+    "title": "Iridium 9604 Launch Pad",
+    "description":
+        "Collect data from anywhere on the planet, sending it directly to the palm of your hand from your Iridium 9604 Launch Pad. ",
+    "icon": "blueprint",
+    "shownTags": [
+        "GNSS",
+        "HTTPs API",
+        "Satellite",
+        "Cellular",
+        "Iridium 9604 Launch Pad",
+        "Iridium",
+        "Iridium 9604"
+    ],
+    "hiddenTags": ["REST", "HTTP", "template", "blueprint"],
+    "link": "/dashboard/blueprints/Library/TMPL4B3w9MRIG",
+    "prio": 10,
+    "actions": [
+        {
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL4B3w9MRIG"
+        }
+    ]
+    },
+
+      {
+    "title": "Iridium 9604 Launch Pad Premium",
+    "description":
+        "This blueprint will allow you to collect data from anywhere on the planet, effortlessly sending it directly to the palm of your hand from you Iridium 9604 Launch Pad. ",
+    "icon": "blueprint",
+    "shownTags": [
+        "GNSS",
+        "HTTPs API",
+        "Satellite",
+        "Cellular",
+        "Iridium 9604 Launch Pad",
+        "Iridium",
+        "Iridium 9604"
+    ],
+    "hiddenTags": ["REST", "HTTP", "template", "blueprint"],
+    "link": "/dashboard/blueprints/Library/TMPL42p0kA-AB",
+    "prio": 10,
+    "actions": [
+        {
+        "type": "secondary",
+        "btnText": "Blueprint",
+        "link": "/dashboard/blueprints/Library/TMPL42p0kA-AB"
+        }
+    ]
+    },
+    
     {
     "title": "Basic Environmental Air Quality Solution",
     "description":
