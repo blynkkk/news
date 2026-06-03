@@ -1622,6 +1622,28 @@
       "link": "/dashboard/blueprints/Library/TMPL48KJfyGe7",
       "prio": 10
     },
+        {
+      "title": "Iridium 9604 Launch Pad Premium",
+      "description": "This blueprint will allow you to collect data from anywhere on the planet, effortlessly sending it directly to the palm of your hand from you Iridium 9604 Launch Pad.",
+      "icon": "blueprint",
+      "shownTags": [
+        "GNSS",
+        "HTTPs API",
+        "Satellite",
+        "Cellular",
+        "Iridium 9604 Launch Pad",
+        "Iridium",
+        "Iridium 9604"
+      ],
+      "hiddenTags": [
+        "REST",
+        "HTTP",
+        "template",
+        "blueprint"
+      ],
+      "link": "/dashboard/blueprints/Library/TMPL42p0kA-AB",
+      "prio": 10
+    },
     {
       "title": "Basic Environmental Air Quality Solution",
       "description": "A simplified way to get your sensor data streaming to the Blynk cloud and pre-built dashboards for monitoring and alerts.",
