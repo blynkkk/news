@@ -1,6 +1,18 @@
 {
   "list": [
     {
+      "path": "/list/offlineauto.md",
+      "date": "7.9.2026",
+      "link": "Details",
+      "URL": "https://www.blynk.io/blog/offline-automations-your-device-logic-shouldnt-depend-on-the-cloud?utm_source=console&utm_medium=platform&utm_campaign=offlineautom"
+    },
+    {
+      "path": "/list/dt1.md",
+      "date": "7.7.2026",
+      "link": "Read More",
+      "URL": "https://www.blynk.io/blog/deutsche-telekom-iot-and-blynk-make-ntn-satellite-iot-production-ready?utm_source=console&utm_medium=platform&utm_campaign=dtlive"
+    },
+    {
       "path": "/list/9604.md",
       "date": "6.23.2026",
       "link": "Learn More",
