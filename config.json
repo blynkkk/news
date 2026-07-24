@@ -1,6 +1,18 @@
 {
   "list": [
     {
+      "path": "/list/unitconv.md",
+      "date": "7.23.2026",
+      "link": "Explore",
+      "URL": "https://www.blynk.io/blog/unit-conversion-is-never-just-unit-conversion-meet-new-feature?utm_source=console&utm_medium=platform&utm_campaign=unitconv"
+    },
+    {
+      "path": "/list/converters.md",
+      "date": "7.16.2026",
+      "link": "See it in action",
+      "URL": "https://youtu.be/NyzwyOOLwRw"
+    },
+    {
       "path": "/list/offlineauto.md",
       "date": "7.9.2026",
       "link": "Details",
