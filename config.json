@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/provisioning.md",
+      "date": "8.20.2026",
+      "link": "Explore",
+      "URL": "https://www.blynk.io/blog/the-new-blynk-provisioning-experience-native-pairing-live-device-feedback-and-full-visibility?utm_source=console&utm_medium=platform&utm_campaign=provisioning"
+    },
+    {
       "path": "/list/unitconv.md",
       "date": "7.23.2026",
       "link": "Explore",
