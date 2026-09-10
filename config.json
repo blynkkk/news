@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/htmlwidget.md",
+      "date": "9.10.2026",
+      "link": "Try it out!",
+      "URL": "https://www.blynk.io/blog/blynk-html-widget-build-any-dashboard-widget-with-html-css-and-javascript?utm_source=console&utm_medium=platform&utm_campaign=html_widget"
+    },
+    {
       "path": "/list/provisioning.md",
       "date": "8.20.2026",
       "link": "Explore",
