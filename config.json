@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/provisioning-live.md",
+      "date": "10.8.2026",
+      "link": "Try out now",
+      "URL": "https://www.blynk.io/blog/new-blynk-device-provisioning-is-live-in-the-app?utm_source=console&utm_medium=platform&utm_campaign=provisioning"
+    },
+    {
       "path": "/list/htmlwidget.md",
       "date": "9.10.2026",
       "link": "Try it out!",
