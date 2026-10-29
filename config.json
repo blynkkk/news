@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/htmlmob.md",
+      "date": "10.25.2026",
+      "link": "Explore",
+      "URL": "https://www.blynk.io/blog/the-blynk-html-widget-is-now-in-the-mobile-app-on-ios-and-android?utm_source=console&utm_medium=platform&utm_campaign=htmlmob"
+    },
+    {
       "path": "/list/provisioning-live.md",
       "date": "10.8.2026",
       "link": "Try out now",
