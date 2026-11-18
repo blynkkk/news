@@ -1,6 +1,12 @@
 {
   "list": [
     {
+      "path": "/list/ota.md",
+      "date": "11.18.2026",
+      "link": "Explore",
+      "URL": "https://www.blynk.io/blog/new-blynk-air-staged-firmware-rollouts-that-stop-when-a-build-starts-failing?utm_source=console&utm_medium=platform&utm_campaign=ota"
+    },
+    {
       "path": "/list/htmlmob.md",
       "date": "10.25.2026",
       "link": "Explore",
